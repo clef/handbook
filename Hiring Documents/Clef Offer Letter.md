@@ -1,28 +1,28 @@
 Welcome to Clef, **FIRST_NAME**!
 
-We are excited to extend an official offer for you to join the Clef team as **a/the TITLE**. This offer letter will go over the basics of working at Clef, but there are a lot more details in our [Employee ](https://drive.google.com/open?id=0Bwj0rVaUQUXPNWI3SmlwMXRkTDQ)[Handbook](https://drive.google.com/open?id=0Bwj0rVaUQUXPNWI3SmlwMXRkTDQ). If you have any questions that aren’t in this letter or the handbook, please let me know.
+We are excited to extend an official offer for you to join the Clef team as **a/the TITLE**. This offer letter will go over the basics of working at Clef, but there are a lot more details in our [Employee Handbook](getclef.com). If you have any questions that aren’t in this letter or the handbook, please let me know.
 
 In our conversation, you said you wanted to take the **EQUITY/SALARY** heavy offer, so your starting salary will be **SALARY** per year and you will be recommended for an option to purchase **SHARES **shares of Clef’s common stock. There are **OUTSTANDING SHARES** shares of Clef common stock outstanding, and your shares will vest over six years, with a one year cliff.
 
-Equity at startups is complicated, so we’ve created a [Guide to Your Equity](https://github.com/clef/handbook/blob/master/Hiring%20Documents/Guide%20to%20Your%20Equity.md) that explains how options are issued, exercised, and what they might be worth if Clef is successful. 
+Equity at startups is complicated, so we’ve created a [Guide to Your Equity](https://github.com/clef/handbook/blob/master/Hiring%20Documents/Guide%20to%20Your%20Equity.md) that explains how options are issued, exercised, and what they might be worth if Clef is successful.
 
 The best perk of working at Clef is your incredible new coworkers, but you’re also entitled to all of the benefits that apply to you from our benefits plan. These currently include:
 
-* [Healthcare, Dental, Vision](https://drive.google.com/open?id=1cP65IDfrgaotPVTti3blUcn8VFJOCqXQTOkAqK4arVY)
+* [Healthcare, Dental, Vision](https://github.com/clef/handbook/blob/master/Benefits%20and%20Perks/Healthcare%20and%20Disability%20Insurance.md)
 
-* [Short and Long Term Disability Insurance](https://drive.google.com/open?id=1cP65IDfrgaotPVTti3blUcn8VFJOCqXQTOkAqK4arVY)
+* [Short and Long Term Disability Insurance](https://github.com/clef/handbook/blob/master/Benefits%20and%20Perks/Healthcare%20and%20Disability%20Insurance.md)
 
-* [Three weeks vacation (15 days PTO)](https://drive.google.com/open?id=1lxM2k0Ik8hvxs2fJa6GJBE4dmLkO9FySHsojATVlQPQ)
+* [Three weeks vacation (15 days PTO)](https://github.com/clef/handbook/blob/master/Benefits%20and%20Perks/Vacation%20and%20Sick%20Leave.md)
 
-* [Holidays](https://docs.google.com/document/d/1YD8ByT9KLZzQMJXPZgrb9sePkjiXPdmcsasu08866zo/edit?usp=sharing)
+* [Holidays](https://github.com/clef/handbook/blob/master/Benefits%20and%20Perks/Holiday%20List.md)
 
-* [A quarter-long (12 week) paid sabbatical every 5 years working at Clef](https://drive.google.com/open?id=1C1KkQOM6YwrzXRId-3oflR9rUachxD6NJClULuU2fF8)
+* [A quarter-long (12 week) paid sabbatical every 5 years working at Clef](https://github.com/clef/handbook/blob/master/Benefits%20and%20Perks/Sabbatical.md)
 
-* [12 weeks paid new parent (maternity/paternity) leave](https://drive.google.com/open?id=1J6pgSUWjr5flatVsbg55ZQhL303ZSSaYP5XhXhVQaL4)
+* [12 weeks paid new parent (maternity/paternity) leave](https://github.com/clef/handbook/blob/master/Benefits%20and%20Perks/New%20Parent%20Leave.md)
 
-* [Flights and hotels covered for speaking at industry conferences](https://drive.google.com/open?id=1p3HE2KvLC7sC7spOPB3SBDdLaTdIvNcKWqT7_CKupU4)
+* [Continuing education stipend for industry-related conferences, seminars, coaching, or mentorship activities](https://github.com/clef/handbook/blob/master/Benefits%20and%20Perks/Continuing%20Education.md)
 
-* [Continuing education stipend for industry-related conferences, seminars, coaching, or mentorship activities](https://drive.google.com/open?id=1p3HE2KvLC7sC7spOPB3SBDdLaTdIvNcKWqT7_CKupU4)
+* [Flights and hotels covered for speaking at industry conferences](https://github.com/clef/handbook/blob/master/Benefits%20and%20Perks/Continuing%20Education.md)
 
 The benefits we offer will adapt to the team’s needs over time and we evaluate and adjust compensation at the beginning of each year (around January).
 
@@ -32,7 +32,7 @@ Clef is an "at-will" employer, which means that both you and Clef have the right
 
 Our [Employee Handbook](https://drive.google.com/folderview?id=0Bwj0rVaUQUXPfnl4SlBDdE1LRXRyOW05dUw2bko4ZFZ2WWp5TnV5a3FmMTNmWWdwdmtoTTA&usp=sharing) goes over the general policies and practices for working at Clef. This letter is specific to you and it supersedes the handbook if they conflict -- otherwise, the handbook is the authority on working at Clef.
 
-But this letter doesn’t mean anything unless you sign it! And before this takes legal effect, you’ll need to fill out our [Proprietary Information and Inventions Agreement](http://getclef.com) and establish your identity and authorization to work in the country.
+But this letter doesn’t mean anything unless you sign it! And before this takes legal effect, you’ll need to fill out our [Proprietary Information and Inventions Agreement](https://github.com/clef/handbook/blob/master/Hiring%20Documents/Employee%20Proprietary%20Information%20and%20Inventions%20Assignment%20Agreement%20(NDA).doc.md) and establish your identity and authorization to work in the country.
 
 It has been great getting to know you through the interview process. The whole Clef team is convinced that you’re the right person for this job, and we can’t wait to work with you!
 
