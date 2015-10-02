@@ -1,8 +1,7 @@
+# Employee Proprietary Information and Inventions Assignment Agreement
+
 **CLEF, INC.**
 
-**EMPLOYEE PROPRIETARY INFORMATION**
-
-**AND INVENTIONS ASSIGNMENT AGREEMENT**
 
  	THIS EMPLOYEE PROPRIETARY INFORMATION AND INVENTIONS ASSIGNMENT AGREEMENT (this "Agreement"), is made by and between Clef, Inc. (the “Company”), and the undersigned individual (“Employee”).  In consideration of Employee’s employment with the Company, and for other good and valuable consideration, the receipt and sufficiency of which are hereby acknowledged, Employee hereby agrees to the following restrictions placed on Employee’s use and development of proprietary information, technology, ideas and inventions:
 
