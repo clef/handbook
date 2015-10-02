@@ -43,4 +43,4 @@ These equity grants are larger than industry standard, but also vest over a long
 
 At Clef we’re hoping to build a team that stays with the company and grows with us, so offering larger ownership of the company over a greater period of time aligns with our goals. If employees leave Clef before the 6 years, they will still own more of Clef than if we offered less equity that vested more quickly, but the longer vesting schedule makes our goal more explicit in the initial offer.
 
-All new employees should also check out our [Guide to Your Equity](https://docs.google.com/a/clef.io/document/d/1jqAImQdk-p5HUdkDga6EaJ9_p5qWS1yCkQo-kAZFM4c/edit?usp=sharing), which walks through the nuances of owning Clef stock options.
+All new employees should also check out our [Guide to Your Equity](https://github.com/clef/handbook/blob/master/Hiring%20Documents/Guide%20to%20Your%20Equity.md), which walks through the nuances of owning Clef stock options.
