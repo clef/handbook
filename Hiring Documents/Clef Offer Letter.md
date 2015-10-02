@@ -1,6 +1,6 @@
 Welcome to Clef, **FIRST_NAME**!
 
-We are excited to extend an official offer for you to join the Clef team as **a/the TITLE**. This offer letter will go over the basics of working at Clef, but there are a lot more details in our [Employee Handbook](getclef.com). If you have any questions that aren’t in this letter or the handbook, please let me know.
+We are excited to extend an official offer for you to join the Clef team as **a/the TITLE**. This offer letter will go over the basics of working at Clef, but there are a lot more details in our [B](getclef.com). If you have any questions that aren’t in this letter or the handbook, please let me know.
 
 In our conversation, you said you wanted to take the **EQUITY/SALARY** heavy offer, so your starting salary will be **SALARY** per year and you will be recommended for an option to purchase **SHARES **shares of Clef’s common stock. There are **OUTSTANDING SHARES** shares of Clef common stock outstanding, and your shares will vest over six years, with a one year cliff.
 
@@ -30,7 +30,7 @@ This position is full-time, so you should not take any other jobs without talkin
 
 Clef is an "at-will" employer, which means that both you and Clef have the right to stop working together at any time, with or without advance notice, and for any reason (or for no reason). We also reserve the right to modify the terms and conditions of employment including your position, pay, and benefits offered depending on the growth and needs of the company.
 
-Our [Employee Handbook](https://drive.google.com/folderview?id=0Bwj0rVaUQUXPfnl4SlBDdE1LRXRyOW05dUw2bko4ZFZ2WWp5TnV5a3FmMTNmWWdwdmtoTTA&usp=sharing) goes over the general policies and practices for working at Clef. This letter is specific to you and it supersedes the handbook if they conflict -- otherwise, the handbook is the authority on working at Clef.
+Our [B](https://drive.google.com/folderview?id=0Bwj0rVaUQUXPfnl4SlBDdE1LRXRyOW05dUw2bko4ZFZ2WWp5TnV5a3FmMTNmWWdwdmtoTTA&usp=sharing) goes over the general policies and practices for working at Clef. This letter is specific to you and it supersedes the handbook if they conflict -- otherwise, the handbook is the authority on working at Clef.
 
 But this letter doesn’t mean anything unless you sign it! And before this takes legal effect, you’ll need to fill out our [Proprietary Information and Inventions Agreement](https://github.com/clef/handbook/blob/master/Hiring%20Documents/Employee%20Proprietary%20Information%20and%20Inventions%20Assignment%20Agreement%20(NDA).doc.md) and establish your identity and authorization to work in the country.
 
