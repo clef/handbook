@@ -1,6 +1,6 @@
-#Acknowledgement of Receipt of B
+#Acknowledgement of Receipt of Employee Handbook
 
-I acknowledge I have received a copy of the Clef B, have read it, and understand its provisions.  I further understand that if I have a question, I am obligated to ask one of the founders for clarification of any provisions in the B.
+I acknowledge I have received a copy of the Clef Employee Handbook, have read it, and understand its provisions.  I further understand that if I have a question, I am obligated to ask one of the founders for clarification of any provisions in the Employee Handbook.
 
 
 I further understand that the statements contained in the handbook do not create any contractual or other legal obligations of employment.  I also understand that Clef may at any time modify, rescind, or revise any policy, benefit, or practice described in the handbook, except for its policy of at-will employment.
@@ -20,7 +20,7 @@ I acknowledge that it is my responsibility to read and become familiar with the 
 Date: ________________________
 
 
-Print Name: ________________________	
+Print Name: ________________________
 
 
 Signature: ________________________
