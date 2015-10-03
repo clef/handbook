@@ -1,4 +1,4 @@
-#Acknowledgement of Receipt of Employee Handbook
+# Acknowledgement of Receipt of Employee Handbook
 
 I acknowledge I have received a copy of the Clef Employee Handbook, have read it, and understand its provisions.  I further understand that if I have a question, I am obligated to ask one of the founders for clarification of any provisions in the Employee Handbook.
 
