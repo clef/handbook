@@ -1,4 +1,4 @@
-#Working Remotely
+# Working Remotely
 
 As a small team, things move very quickly and decisions are made or reversed as new information helps guide us. This makes it really hard to keep up with company progress for anyone who isn’t in the office participating in all of the conversations that are going on. As a result, we put a high premium on physical colocation, even though this limits the geography that we can recruit from.
 

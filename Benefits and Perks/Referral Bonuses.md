@@ -1,4 +1,4 @@
-#Referral Bonuses
+# Referral Bonuses
 
 Referrals from people who already work at Clef are one of the best signals we can get about whether or not a candidate will be successful at Clef. Clef employees understand Clef’s needs and what it’s like to work at Clef, and their relationship with the candidate means they know a lot more than we can learn during an interview process.
 

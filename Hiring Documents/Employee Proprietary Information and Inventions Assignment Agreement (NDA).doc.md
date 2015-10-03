@@ -1,10 +1,9 @@
+# Employee Proprietary Information and Inventions Assignment Agreement
+
 **CLEF, INC.**
 
-**EMPLOYEE PROPRIETARY INFORMATION**
 
-**AND INVENTIONS ASSIGNMENT AGREEMENT**
-
- 	THIS EMPLOYEE PROPRIETARY INFORMATION AND INVENTIONS ASSIGNMENT AGREEMENT (this "Agreement"), is made by and between Clef, Inc. (the “Company”), and the undersigned individual (“Employee”).  In consideration of Employee’s employment with the Company, and for other good and valuable consideration, the receipt and sufficiency of which are hereby acknowledged, Employee hereby agrees to the following restrictions placed on Employee’s use and development of proprietary information, technology, ideas and inventions: 
+ 	THIS EMPLOYEE PROPRIETARY INFORMATION AND INVENTIONS ASSIGNMENT AGREEMENT (this "Agreement"), is made by and between Clef, Inc. (the “Company”), and the undersigned individual (“Employee”).  In consideration of Employee’s employment with the Company, and for other good and valuable consideration, the receipt and sufficiency of which are hereby acknowledged, Employee hereby agrees to the following restrictions placed on Employee’s use and development of proprietary information, technology, ideas and inventions:
 
 1.  		Proprietary Information.  
 
@@ -18,9 +17,9 @@
 
 (a)		Assignment of Inventions.    All Inventions created or prepared by Employee either (i) in the course and scope of Employee’s employment with the Company, (ii) during the Company’s normal business hours during the term of Employee’s employment by the Company, or (iii) while utilizing any of the Company’s Proprietary Information or resources (collectively, "Assigned Inventions"), shall be considered specially commissioned works and works made for hire, and regardless of whether works made for hire, the Company shall exclusively own all Assigned Inventions and all rights, title, interests and privileges therein, including, but not limited to, all patent rights in all countries and jurisdictions.  Employee agrees to assign, and upon creation of any Assigned Invention does hereby assign, to the Company, without further consideration, the entire right, title, interest, and privilege (throughout the United States of America and in all other countries and jurisdictions), free and clear of all liens and encumbrances, in and to all Assigned Inventions.  Employee further agrees to execute any documents that may be necessary or desirable to effect, enable, confirm, or evidence such assignment.  Notwithstanding the foregoing, the Company may, in its discretion, agree to provide consideration for certain Inventions through a written agreement between the Company and Employee which specifically provides for such consideration; in all other cases, no consideration shall be paid.  The Assigned Inventions shall be the sole property of the Company, whether or not patentable.  In addition, Employee agrees to maintain adequate and current written records on the development of all Assigned Inventions, which shall also remain the sole property of the Company.  Employee understands that “Inventions” means all ideas, processes, inventions, works of authorship, technology, designs, formulas, discoveries, devices, symbols, marks, methods (of doing business or otherwise), and all subject matter that may be protectible by patent, copyright, trade secret, trademarks, or by any other proprietary rights, along with all applications, registrations, government grants, and rights to the same, and all improvements, continuations (of any form), rights, and claims related to any of the foregoing, that are created, authored, made, invented, discovered, conceived, developed, or reduced to practice by Employee alone or with others, except such specific items as are excluded with particularity in **Schedule A** attached hereto.  The Company’s right, title, interest, and privilege in and to Assigned Inventions shall not be affected in any way by the termination of Employee’s employment with the Company (for any reason whatsoever or for no reason).  
 
-(b)		License for Other Inventions.  If, in the course of Employee’s employment with the Company, Employee incorporates into Company property an Invention owned by Employee or in which Employee has an interest, the Company is hereby granted a nonexclusive, royalty-free, irrevocable, perpetual, worldwide license to the fullest extent of Employee’s interest and rights in the Invention to make, modify, use, sublicense and sell the Invention as part of and in connection with the Company property or modifications thereof. 
+(b)		License for Other Inventions.  If, in the course of Employee’s employment with the Company, Employee incorporates into Company property an Invention owned by Employee or in which Employee has an interest, the Company is hereby granted a nonexclusive, royalty-free, irrevocable, perpetual, worldwide license to the fullest extent of Employee’s interest and rights in the Invention to make, modify, use, sublicense and sell the Invention as part of and in connection with the Company property or modifications thereof.
 
-(c)	Assist With Registration.  In the event any Assigned Invention shall be deemed by the Company, in its sole discretion, to be patentable or otherwise registrable, Employee will assist the Company (at the Company’s expense) in obtaining and maintaining letters patent or other applicable registrations and in vesting the Company with full title.  Without limiting the generality of the foregoing, Employee will execute all documents that may be necessary or desirable to apply for, prosecute, obtain, or enforce any patent or other right or protection relating to any Assigned Invention.  Should the Company be unable to secure Employee’s signature on any document necessary or desirable to apply for, prosecute, obtain, or enforce any patent or other right or protection relating to any Assigned Invention, due to Employee’s incapacity or any other cause, Employee hereby irrevocably designates and appoints the Company and each of its duly authorized officers and agents as Employee’s agent and attorney-in-fact to do all lawfully permitted acts to further the prosecution, issuance, and enforcement of patents or other rights or protection with the same force and effect as if executed and delivered by Employee. 
+(c)	Assist With Registration.  In the event any Assigned Invention shall be deemed by the Company, in its sole discretion, to be patentable or otherwise registrable, Employee will assist the Company (at the Company’s expense) in obtaining and maintaining letters patent or other applicable registrations and in vesting the Company with full title.  Without limiting the generality of the foregoing, Employee will execute all documents that may be necessary or desirable to apply for, prosecute, obtain, or enforce any patent or other right or protection relating to any Assigned Invention.  Should the Company be unable to secure Employee’s signature on any document necessary or desirable to apply for, prosecute, obtain, or enforce any patent or other right or protection relating to any Assigned Invention, due to Employee’s incapacity or any other cause, Employee hereby irrevocably designates and appoints the Company and each of its duly authorized officers and agents as Employee’s agent and attorney-in-fact to do all lawfully permitted acts to further the prosecution, issuance, and enforcement of patents or other rights or protection with the same force and effect as if executed and delivered by Employee.
 
 (d)		Disclosure.  Employee agrees to disclose promptly to the Company all Assigned Inventions and relevant records.  
 
@@ -44,19 +43,19 @@
 
 		(b)	Other Parties.  Employee agrees that during the term of the employment, will not negatively influence any of the Company’s clients, licensors, licensees or customers from purchasing Company products or services or solicit or influence or attempt to influence any client, licensor, licensee, customer or other person either directly or indirectly, to direct any purchase of products and/or services to any person, firm, corporation, institution or other entity in competition with the business of the Company.
 
-6.	At-Will Employment.  Employee recognizes that nothing in this Agreement shall be construed to imply that Employee’s employment is guaranteed for any period of time.    Unless stated in a written agreement signed by a duly authorized representative of the Company, Employee’s employment is at-will, and either the Company or Employee can terminate the employment relationship at any time, for any reason or for no reason, with or without cause or advance notice. 
+6.	At-Will Employment.  Employee recognizes that nothing in this Agreement shall be construed to imply that Employee’s employment is guaranteed for any period of time.    Unless stated in a written agreement signed by a duly authorized representative of the Company, Employee’s employment is at-will, and either the Company or Employee can terminate the employment relationship at any time, for any reason or for no reason, with or without cause or advance notice.
 
 7.	Remedies.  Employee recognizes that nothing in this Agreement is intended to limit any remedy of the Company under any federal or state law concerning trade secrets.  Employee further recognizes that Employee’s violation of this Agreement will cause the Company irreparable harm and that monetary damages will be inadequate to compensate fully for such breach.  Accordingly, it is understood and agreed that the Company shall be entitled, in the event of a breach or a threatened breach by Employee of any of the provisions of this Agreement, to a temporary restraining order, preliminary injunction and permanent injunction in order to prevent or restrain any such breach by Employee.  These remedies are in addition to any remedies available at equity or at law.  Employee agrees to reimburse the Company for any and all costs and expenses, including reasonable attorneys’ fees, incurred by the Company in enforcing Employee’s obligations hereunder.
 
 8.	Miscellaneous Provisions.  
 
-(a)	Governing Law.  This Agreement shall be governed by and construed in accordance with the laws of the State of California, without regard to any choice of law rules that may direct the application of the laws of another jurisdiction. 
+(a)	Governing Law.  This Agreement shall be governed by and construed in accordance with the laws of the State of California, without regard to any choice of law rules that may direct the application of the laws of another jurisdiction.
 
 (b) 	Severability. In the event that any provision or portion of this Agreement is held to be illegal, invalid or unenforceable, in whole or in part, for any reason, under present or future law, Employee agrees that such provision or portion shall be severable and the remainder of this Agreement shall not be invalidated or rendered unenforceable or otherwise adversely affected.  Without limiting the generality of the foregoing, if a court should deem any provision of this Agreement to create a restriction that is unreasonable as to scope, duration or geographical area, Employee agrees that the provisions of this Agreement shall be enforceable in such scope, for such duration and in such geographic area as any court having jurisdiction may determine to be reasonable.
 
-(c)		Entire Agreement.  The terms of this Agreement are the final expression of Employee’s agreement with respect to the subject matter hereof and may not be contradicted by evidence of any prior or contemporaneous agreement.  This Agreement shall constitute the complete and exclusive statement of its terms.  Employee acknowledges that the Company has not made any other representations concerning the subject matter of this Agreement. 
+(c)		Entire Agreement.  The terms of this Agreement are the final expression of Employee’s agreement with respect to the subject matter hereof and may not be contradicted by evidence of any prior or contemporaneous agreement.  This Agreement shall constitute the complete and exclusive statement of its terms.  Employee acknowledges that the Company has not made any other representations concerning the subject matter of this Agreement.
 
- 
+
 
     7.  		Amendment; Waivers.  This Agreement can be amended or terminated only by a written agreement signed by both parties.  No failure to exercise or delay in exercising any right under this Agreement shall operate as a waiver thereof.
 
@@ -66,14 +65,17 @@
 
 EMPLOYEE HAS READ THIS AGREEMENT CAREFULLY AND UNDERSTANDS ITS TERMS.  EMPLOYEE HAS COMPLETELY NOTED ON **SCHEDULE A** TO THIS AGREEMENT ANY PROPRIETARY INFORMATION, IDEAS, PROCESSES, INVENTIONS, TECHNOLOGY, WRITINGS, PROGRAMS, DESIGNS, FORMULAS, DISCOVERIES, PATENTS, COPYRIGHTS, OR TRADEMARKS, OR IMPROVEMENTS, RIGHTS, OR CLAIMS RELATING TO THE FOREGOING, THAT EMPLOYEE DESIRES TO EXCLUDE FROM THIS AGREEMENT.  
 
-Date: ________________________ 		                 ________________________	
+```
 
-                                                                                                  Employee Name
+Date: ________________________
 
-							     ________________________	
 
-                                                                                                 Employee Signature
+Employee Name: ________________________
 
+
+Signature: ________________________
+
+```
 **SCHEDULE A**
 
 **EMPLOYEE'S DISCLOSURE**
@@ -93,24 +95,26 @@ ________________________________________________________________________________
 Except as set forth below, Employee is aware of no prior agreements between Employee and any other person or entity concerning proprietary information or inventions:
 
 ______________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+```
 
-Date: ________________________ 		                 ________________________	
+Date: ________________________
 
-                                                                                                  Employee Name
 
-							     ________________________	
+Employee Name: ________________________
 
-                                                                                                 Employee Signature
 
+Signature: ________________________
+
+```
 **SCHEDULE B**
 
 **TERMINATION CERTIFICATE CONCERNING**
 
 **COMPANY PROPRIETARY INFORMATION**
 
-This is to certify that I, the undersigned, have returned all personal property of Clef, Inc.(the "Company"), including, without limitation, all source code listings, books, manuals, records, models, drawings, reports, notes, contracts, lists, blueprints, and other documents and materials, Proprietary Information, and equipment furnished to or prepared by me in the course of or incident to my employment with the Company, and that I did not make or distribute any copies of the foregoing. 
+This is to certify that I, the undersigned, have returned all personal property of Clef, Inc.(the "Company"), including, without limitation, all source code listings, books, manuals, records, models, drawings, reports, notes, contracts, lists, blueprints, and other documents and materials, Proprietary Information, and equipment furnished to or prepared by me in the course of or incident to my employment with the Company, and that I did not make or distribute any copies of the foregoing.
 
- 
+
 
 I further certify that I have reviewed the Employee Proprietary Information and Inventions Agreement (the "Agreement") signed by me and that I have complied with and will continue to comply with all of its terms, including, without limitation, (i) the reporting of any idea, process, invention, technology, writing, program, design, formula, discovery, patent, copyright, or trademark, or any improvement, rights, or claims related to the foregoing, conceived or developed by me and covered by the Agreement and (ii) the preservation as confidential of all Proprietary Information pertaining to the Company.  This certificate in no way limits my responsibilities or the Company's rights under the Agreement.  
 
@@ -118,19 +122,16 @@ On termination of my employment with the Company, I will be employed by ________
 
 **[generally describe the projects]**
 
-	
 
-	
 
-	
+```
 
-	
+Date: ________________________
 
-Date: ________________________ 		                 ________________________	
 
-                                                                                                  Employee Name
+Employee Name: ________________________
 
-							     ________________________	
 
-                                                                                                 Employee Signature
+Signature: ________________________
 
+```

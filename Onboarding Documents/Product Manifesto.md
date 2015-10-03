@@ -1,4 +1,4 @@
-#Product Manifesto
+# Product Manifesto
 
 Working on Clef, it is tempting to optimize for some of the metrics which have been important to other companies like ours. We can use these metrics to compare ourselves against passwords and traditional two-factor authentication, and eke out incremental benefits for users or sites who decide to use Clef. Those metrics might include:
 
@@ -24,7 +24,7 @@ Passwords take time and are fundamentally insecure, but most people log in prett
 
 3. **Fear** that they are not protected by their passwords and that their identity may be at risk, often fueled by media coverage around breaches and identity theft.
 
-Identity is something that’s fundamental to being human. And it’s because of this that passwords — be that logging in or signing up — can often trigger emotional responses. The constant repetition of emotional responses associated with guilt, anxiety, and fear can force us to associate *shame *with identity.
+Identity is something that’s fundamental to being human. And it’s because of this that passwords — be that logging in or signing up — can often trigger emotional responses. The constant repetition of emotional responses associated with guilt, anxiety, and fear can force us to associate *shame* with identity.
 
 The solution to the "password problem" isn’t faster logins or additional layers of security. Instead, we have to work to dismantle the negative, or shame-based, associations with identity by both empowering our users and delivering an experience they can understand and feel positively about.
 

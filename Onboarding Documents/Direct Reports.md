@@ -1,4 +1,4 @@
-#Direct Reports
+# Direct Reports
 
 Everyone who works at Clef should report to Mark, Jesse, or Brennen. The goal of this relationship is to provide support and guidance to the employee -- this is the person they will talk to about their goals, meet with regularly, and go to first with questions. We are not doing any official performance reviews yet, but this is also the relationship where employees will get feedback on how they are doing and areas where they can improve.
 

@@ -1,4 +1,4 @@
-#Sabbatical
+# Sabbatical
 
 After every 5 years of working at Clef, employees are encouraged to take a one-quarter (12 contiguous weeks) paid sabbatical.
 
