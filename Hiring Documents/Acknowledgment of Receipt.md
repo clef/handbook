@@ -37,7 +37,7 @@ This handbook is hosted online at [github.com/clef/handbook](https://github.com/
 ### Employment Policies
 * #### [Equal Opportunity Employment](https://github.com/clef/handbook/blob/master/Employment%20Policies/Equal%20Opportunity%20Employment.md)
 * #### [At-Will Employment](https://github.com/clef/handbook/blob/master/Employment%20Policies/At-Will%20Employment.md)
-* #### [Salary and Equity Compensation](https://github.com/clef/handbook/blob/master/Operations%20Documents/Salary%20and%20Equity%20Compensation.md)
+* #### [Salary and Equity Compensation](https://github.com/clef/handbook/blob/master/Employment%20Policies/Salary%20and%20Equity%20Compensation.md)
 * #### [Code of Conduct in the Community](https://github.com/clef/handbook/blob/master/Employment%20Policies/Code%20of%20Conduct%20in%20the%20Community.md)
 * #### [Complaint Policy](https://github.com/clef/handbook/blob/master/Employment%20Policies/Complaint%20Policy.md)
 * #### [Drug and Alcohol Policy](https://github.com/clef/handbook/blob/master/Employment%20Policies/Drug%20and%20Alcohol%20Policy.md)
