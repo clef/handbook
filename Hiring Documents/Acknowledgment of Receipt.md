@@ -31,6 +31,7 @@ Signature: ________________________
 This handbook is hosted online at [github.com/clef/handbook](https://github.com/handbook), along with several other policies. The *Clef Employee Handbook* consists of only the policies listed below.
 
 ### Introduction
+* #### [Handbook Introduction](https://github.com/clef/handbook/blob/master/Hiring%20Documents/Handbook%20Introduction.md)
 * #### [Mission Statement](https://github.com/clef/handbook/blob/master/Mission%20Statement.md)
 * #### [Clef Values](https://github.com/clef/handbook/blob/master/Clef%20Values.md)
 
