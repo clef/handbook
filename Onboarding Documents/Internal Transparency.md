@@ -22,7 +22,7 @@ Projects should have org-visible Trello boards so that everyone can see where a 
 
 ## Public Calendars
 
-Work calendars should be shared to make scheduling meetings really easy and also to let the rest of the team see where we’re spending our time. Personal calendars can be have sensitive information, and should be kept separate. Work calendars are documentation of how we’re budgeting our hours and are useful for the rest of the team.
+Work calendars should be shared to make scheduling meetings really easy and also to let the rest of the team see where we’re spending our time. Personal calendars can contain sensitive information, and should be kept separate. Work calendars are documentation of how we’re budgeting our hours and are useful for the rest of the team.
 
 ## Open Stats
 
