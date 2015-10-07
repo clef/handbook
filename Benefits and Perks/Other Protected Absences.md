@@ -2,7 +2,7 @@
 
 ## Pregnancy Disability Leave
 
-California law entitles a female employee to take Pregnancy Disability Leave (PDL) if she is disabled because of pregnancy, childbirth, or a related medical condition, including prenatal care and severe morning sickness. The length of leave will be up to 4 months or the equivalent number of days the employee would normally work within the 4-month period.  Intermittent leave or a reduced work schedule may be taken.  Employees should give notice to the founder to whom they report.  
+California law entitles a childbearing employee to take Pregnancy Disability Leave (PDL) if she is disabled because of pregnancy, childbirth, or a related medical condition, including prenatal care and severe morning sickness. The length of leave will be up to 4 months or the equivalent number of days the employee would normally work within the 4-month period.  Intermittent leave or a reduced work schedule may be taken.  Employees should give notice to the founder to whom they report.  
 
 ## Bereavement Leave
 
