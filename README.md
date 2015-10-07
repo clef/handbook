@@ -1,4 +1,4 @@
-# handbook
+# Our Handbook
 
 At Clef we’re working to build an inclusive company with a value-driven culture. That’s an easy thing to want and say, but it’s difficult to practice because exclusion is the default in our industry. It takes active effort to find the hidden biases in our companies and remove them.
 
