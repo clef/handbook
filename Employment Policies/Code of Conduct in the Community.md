@@ -1,6 +1,6 @@
 # Code of Conduct
 
-This code of conduct applies to community members in all Clef communities online (including but not limited to IRC, support chat, the Clef Community Slack group, Twitter, and Facebook), in the Clef office, and at all events hosted by Clef.
+This code of conduct applies to community members and Clef team members in all Clef communities online (including but not limited to IRC, support chat, the Clef Community Slack group, Twitter, and Facebook), in the Clef office, and at all events hosted by Clef.
 
 Our community is dedicated to creating an inclusive environment for everyone, regardless of gender, age, sexual orientation, disability, physical appearance, body size, race, ethnicity, nationality, religion, or computing experience (or lack of any of the aforementioned).
 
