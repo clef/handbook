@@ -12,13 +12,13 @@ OKRs are explicit, written priorities and intentions. These are what we think ab
 
 ## Public Slack Channels
 
-Almost all conversation should happen in public Slack channels where the rest of the team can see it. You may not subscribe to or pay attention to every channel, but conversations that happen in public channels are searchable and readable by the whole team, so when someone wants to know how we decided on some course of action, Slack gives them a place to look back at the conversation.
+Almost all Slack conversation should happen in public Slack channels where the rest of the team can see it. You may not subscribe to or pay attention to every channel, but conversations that happen in public channels are searchable and readable by the whole team, so when someone wants to know how we decided on some course of action, Slack gives them a place to look back at the conversation.
 
 Not every ping or question needs to happen publicly, but when in question, you should err on the side of posting publicly. Currently about 60% of our conversations happen in public channels, which is a number we hope will keep growing.
 
 ## Public Trello Boards
 
-Projects should have org-visible Trello boards so that everyone can see where a project is, and what’s being worked on at any point in time. These boards are a little more granular than OKRs and are more cross-organizational since they’re not specific to any individual person. 
+Projects should have org-visible Trello boards so that everyone can see where a project is, and what’s being worked on at any point in time. These boards are a little more granular than OKRs and are more cross-organizational since they’re not specific to any individual person.
 
 ## Public Calendars
 
