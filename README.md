@@ -12,7 +12,7 @@ Feel free to fork this repository and use any or all of these policies, and to m
 
 All feedback and suggestions (especially in the form of pull requests) are very appreciated. We’ve gotten several different perspectives to help arrive at these policies, but we are certainly missing many more and making mistakes as a result. This is a work in progress that we hope will get better with more time and more contributors.
 
-If these policies sound like a place where you want to work, check out our jobs postings at [getclef.com/about](getclef.com/about).
+If these policies sound like a place where you want to work, check out our jobs postings at [getclef.com/about](https://getclef.com/about).
 
 — [B](https://twitter.com/brennenbyrne)
 
