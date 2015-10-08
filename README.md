@@ -76,7 +76,7 @@ We hope that many more people will suggest ways for us to improve these policies
 
 * [Angel Lewis](http://www.allemployerlaw.com/)
 * [Ashe Dryden](http://www.ashedryden.com/)
-* [B](https:/twitter.com/brennenbyrne)
+* [B](https://twitter.com/brennenbyrne)
 * [Mark Hudnall](https://twitter.com/landakram)
 * [Jesse Pollak](https://twitter.com/jessepollak)
 * [Darrell Jones](https://twitter.com/darrelljonesiii)
