@@ -1,4 +1,4 @@
-# Other Protected Abscenses
+# Other Protected Absences
 
 ## Pregnancy Disability Leave
 
