@@ -7,3 +7,5 @@ Every employee is an important contributor to the decisions we make and the work
 Employees with chronic or terminal illnesses should talk with the founder they report to about their needs for remote work, flexible time, and other support.
 
 As we grow, we hope to add the capability for employees to work from home or work remotely more consistently, but, at our current size, the in-person interactions in the office are too critical to pass up.
+
+When we reach 10 employees, we will review this policy to see if our capabilities to support remote work have expanded.
