@@ -4,17 +4,17 @@ There are currently **4,662,658** shares of Clef common stock outstanding.
 
 We have not undergone a 409A valuation to determine the current strike price of Clef stock.
 
-**This guide is meant to help you understand the piece of Clef that you’re going to own!** It’s goal is to be more straightforward than the full Stock Incentive Plan and Award Agreement, which both go into the full legal details. You should consult an employment attorney if you have any questions about navigating your stock options and before you make important decisions.
+**This guide is meant to help you understand the piece of Clef that you’re going to own!** Its goal is to be more straightforward than the full Stock Incentive Plan and Award Agreement, which both go into the full legal details. You should consult an employment attorney if you have any questions about navigating your stock options and before you make important decisions.
 
 Owning stock in Clef gives you a stake in our success. As Clef grows and increases in value, you will own a piece of that growth and increased value. Clef is pretty small today, but if things go well, your stock could be worth many times more. However, you are gambling with this portion of your compensation -- if Clef decreases in value, then your options won’t be worth anything.
 
 ## Stock Options
 
-At Clef, we give equity grants in the form of Incentive Stock Options (ISOs). It’s called an option because you have the *option* to buy Clef stock later at the same price it was worth when the option was granted. So if a share of Clef stock is worth $1 today and we grow so its worth $20 in a few years, you’ll still be able to buy it for $1 (and then sell it immediately for a profit of $19).
+At Clef, we give equity grants in the form of Incentive Stock Options (ISOs). It’s called an option because you have the *option* to buy Clef stock later at the same price it was worth when the option was granted. So if a share of Clef stock is worth $1 today and we grow so it’s worth $20 in a few years, you’ll still be able to buy it for $1 (and then sell it immediately for a profit of $19).
 
-This is a little bit of a roundabout way to give you ownership of Clef, but the reason we give options instead of straight stock is that it keeps you from being taxed on the stock until you actually use it.
+The reason we give stock options instead of straight stock is that it keeps you from being taxed on the stock until you actually use it.
 
-If we gave you $10,000 worth of Clef stock today, you would have to pay thousands of dollars in taxes this year. If we give you $10,000 worth of stock options, then you don’t have to pay any taxes until you exercise them (more on exercising later).
+If we gave you $10,000 worth of Clef stock today, you would have to pay thousands of dollars in taxes this year. If we give you options for $10,000 worth of stock, you don’t have to pay any taxes until you exercise them (more on exercising later).
 
 ## Vesting
 
