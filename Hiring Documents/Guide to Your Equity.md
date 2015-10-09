@@ -4,7 +4,7 @@ There are currently **4,662,658** shares of Clef common stock outstanding.
 
 We have not undergone a 409A valuation to determine the current strike price of Clef stock.
 
-**This guide is meant to help you understand the piece of Clef that you’re going to own!** It’s goal is to be more straightforward than the full Stock Incentive Plan and Award Agreement, which both go into the full legal details. You should consult an employment attorney if you have any questions about navigating your stock options and before you make important decisions.
+**This guide is meant to help you understand the piece of Clef that you’re going to own!** Its goal is to be more straightforward than the full Stock Incentive Plan and Award Agreement, which both go into the full legal details. You should consult an employment attorney if you have any questions about navigating your stock options and before you make important decisions.
 
 Owning stock in Clef gives you a stake in our success. As Clef grows and increases in value, you will own a piece of that growth and increased value. Clef is pretty small today, but if things go well, your stock could be worth many times more. However, you are gambling with this portion of your compensation -- if Clef decreases in value, then your options won’t be worth anything.
 
