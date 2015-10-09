@@ -42,7 +42,11 @@ Investor dilution won’t affect the value of your stock, but the valuation that
 
 You will usually only want to exercise the stock when you have the opportunity to sell it for a higher price than you are buying it for or when it is expiring.
 
-Your stock options expire 10 years after they were issued or 30 days after you stop working with Clef (this varies a little bit depending on how the change of employment happens, but 30 days covers most cases).
+Your stock options expire 10 years after they were issued. You have 7 years to exercise your options after you stop working at Clef, but by law the options only count as ISOs for 90 days after you stop working. Once those 90 days are up, the options count as non-qualified stock options, so they count as income and are subject to income tax when you exercise them.
+
+Traditionally, employers have made options expire quickly after employees stop working at the company because the company also has to pay tax on the options when they are non-qualified and considered income. However, this means that many cannot afford to exercise their options and so either a) leave the company and lose the equity they worked hard for or b) stay at the company until they can afford it (this situation is often referred to as "golden handcuffs"). At Clef, we want our employees to keep the equity they earn, and we don't want to keep anyone working here if they're not happy, so we give employees the option to exercise their options up to 7 years after they leave Clef.
+
+However, there is a very significant increase in the tax burden of exercising options 90 days after leaving Clef that we cannot control. This means that while you have more options regarding your equity, you will lose a significant amount of your options' value if you wait. In weighing your different options, you should consult a tax attorney to help decide what path makes the most sense for you.
 
 ## Exercise Prices and 409a Valuations
 
@@ -52,7 +56,7 @@ The lower the exercise price for Common Stock, the more money your options will 
 
 ## Taxes
 
-**Tax law is complex and you should consult a tax attorney who is familiar with startup stock options before ****making any decisions****. **
+**Tax law is complex and you should consult a tax attorney who is familiar with startup stock options before making any decisions.**
 
 With Incentive Stock Options (ISOs), you aren’t taxed when you exercise your options, and the profit you make between the exercise price and the price you sell your stock for is taxed as capital gains (much lower than income tax). *However*, because you’re not paying income tax on this gain, this money is counted as a "tax preference" towards the [Alternative Minimum Tax](http://www.irs.gov/Businesses/Small-Businesses-&-Self-Employed/Alternative-Minimum-Tax-%28AMT%29-Assistant-for-Individuals) limit.
 
