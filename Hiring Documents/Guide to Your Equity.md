@@ -42,7 +42,7 @@ Investor dilution won’t affect the value of your stock, but the valuation that
 
 You will usually only want to exercise the stock when you have the opportunity to sell it for a higher price than you are buying it for or when it is expiring.
 
-Your stock options expire 10 years after they were issued or 30 days after you stop working with Clef (this varies a little bit depending on how the change of employment happens, but 30 days covers most cases).
+Your stock options expire 10 years after they were issued or 7 years after you stop working with Clef (this varies a little bit depending on how the change of employment happens, but 7 years covers most cases).
 
 ## Exercise Prices and 409a Valuations
 
