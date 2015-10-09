@@ -52,7 +52,7 @@ The lower the exercise price for Common Stock, the more money your options will 
 
 ## Taxes
 
-**Tax law is complex and you should consult a tax attorney who is familiar with startup stock options before ****making any decisions****. **
+**Tax law is complex and you should consult a tax attorney who is familiar with startup stock options before ****making any decisions. **
 
 With Incentive Stock Options (ISOs), you aren’t taxed when you exercise your options, and the profit you make between the exercise price and the price you sell your stock for is taxed as capital gains (much lower than income tax). *However*, because you’re not paying income tax on this gain, this money is counted as a "tax preference" towards the [Alternative Minimum Tax](http://www.irs.gov/Businesses/Small-Businesses-&-Self-Employed/Alternative-Minimum-Tax-%28AMT%29-Assistant-for-Individuals) limit.
 
