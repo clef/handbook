@@ -80,4 +80,4 @@ $175,000 was raised on notes with a cap of $5m
 
 $1,683,555 was raised on notes with a cap of $6m
 
-Anyone is always welcome to ask B, our CEO, any questions they have about their options, Clef’s fundraising, or anything else related to equity at Clef. However, everyone should also consult a lawyer before making important financial decisions, especially regarding their equity because their are complex legal and tax requirements that may apply.
+Anyone is always welcome to ask B, our CEO, any questions they have about their options, Clef’s fundraising, or anything else related to equity at Clef. However, everyone should also consult a lawyer before making important financial decisions, especially regarding their equity because there are complex legal and tax requirements that may apply.
