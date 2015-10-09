@@ -52,7 +52,7 @@ Some guidelines for the first day:
 
 * The new employee should arrive to a desk with their new computer, monitor, keyboard, mouse, etc. set up and ready for them. So far, we have opened the computer, updated software and installed tools, then reboxed it (because the unboxing process of a new computer is nice, but this helps save them annoying time on the first day). There should also be a nice note signed by the team, a copy of Daring Greatly, and anything else that feels welcoming or personal to them.
 
-* Everyone in the office should know that they are starting, their name, and what they’re doing. There is one person in charge of the onboarding process, but it is everyone’s responsibility individually to make the new employee feel welcome.
+* Everyone in the office should know that they are starting, their name, their gender pronouns, and what they’re doing. There is one person in charge of the onboarding process, but it is everyone’s responsibility individually to make the new employee feel welcome.
 
 * The person in charge of onboarding should block out the whole day and plan to spend it with the new employee helping them get set up. In practice, they won’t need the attention for the entire day, but should never be stranded when they do need it.
 

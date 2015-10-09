@@ -22,7 +22,7 @@ At the end of your first day, you get to choose how you want to celebrate with y
 
 * We can all do a group high five and cheer for you
 
-* We can go out for a drink or desert nearby together
+* We can go out for a drink or dessert nearby together
 
 * We can all go to dinner somewhere nearby
 
