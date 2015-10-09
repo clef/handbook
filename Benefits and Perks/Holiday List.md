@@ -39,7 +39,7 @@
   </tr>
   <tr>
     <td>Thanksgiving Day and Friday</td>
-    <td>Fourth Thursday in November and Friday after</td>
+    <td>Fourth Thursday in November and following Friday</td>
   </tr>
   <tr>
     <td>Christmas Eve</td>
