@@ -37,7 +37,7 @@ At the beginning of each year (in January), we will adjust this rubric to make s
 
 ##Equity
 
-Every employee will be offered 41,963 Clef stock options (~.9% of outstanding shares, including the option pool these are drawn from). As mentioned above, they can also choose to reduce their salary by $5k/year in exchange for 4,663 more options (totalling ~1% of outstanding shares).
+Every employee will be offered 41,963 Clef stock options (~.9% of outstanding shares, including the option pool these are drawn from). As mentioned above, they can also choose to reduce their salary by $5k/year in exchange for 4,663 more options (totalling ~.1% of outstanding shares).
 
 These equity grants are larger than industry standard, but also vest over a longer period of time. Employee equity vests over 6 years with a 1 year cliff (while 4 years with a 1 year cliff is standard).
 
