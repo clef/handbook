@@ -1,4 +1,4 @@
-# Summary
+* [About the Clef Handbook](README.md)
 
 * Introduction
     * [Mission Statement](Mission Statement.md)
