@@ -1,4 +1,4 @@
-# Clef Core Values
+# Alegion Core Values
 
 ## Be better today than yesterday.
 
@@ -14,8 +14,8 @@ Inequality and exclusion are the defaults of our industry. Without intentional e
 
 ## Build trust with truth.
 
-Transparency and honesty are requirements for succeeding with Clef. In order to build a trusting community we give employees and customers deep visibility into how decisions are made and easy outlets to help guide our course. When we build trust through good communication, we create an environment for better communication in the future.
+Transparency and honesty are requirements for succeeding with Alegion. In order to build a trusting community we give employees and customers deep visibility into how decisions are made and easy outlets to help guide our course. When we build trust through good communication, we create an environment for better communication in the future.
 
 ## We succeed together.
 
-We fight for Clef because we love the problems we solve and the people we work with. We are most excited when the company’s successes are our own, and when our teammates recognize our contributions. When we’re excited, the hard work we do always has meaning.
+We fight for Alegion because we love the problems we solve and the people we work with. We are most excited when the company’s successes are our own, and when our teammates recognize our contributions. When we’re excited, the hard work we do always has meaning.

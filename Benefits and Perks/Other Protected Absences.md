@@ -15,4 +15,4 @@ Employees will be granted time off to serve on a jury or as a witness.  In order
 
 ## Other Leaves of Absence
 
-Clef will grant leaves of absence for other activities as required by law.  Unless otherwise required by law, employees will not be paid for such leaves of absence.  
+Alegion will grant leaves of absence for other activities as required by law.  Unless otherwise required by law, employees will not be paid for such leaves of absence.  
