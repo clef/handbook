@@ -1,8 +1,6 @@
 # Summary
-
-* Introduction
-    * [Mission Statement](Mission Statement.md)
-    * [Clef Values](Clef Values.md)
+* [Mission Statement](Mission Statement.md)
+* [Clef Values](Clef Values.md)
 
 * Employment Policies
     * [Equal Opportunity Employment](Employment Policies/Equal Opportunity Employment.md)
