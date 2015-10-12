@@ -1,4 +1,2 @@
 # Summary
 
-* Benefits and Perks
-
