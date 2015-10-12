@@ -1,5 +1,5 @@
 # Mission Statement
 
-## Our mission is to empower everyone to own their identity online.
+## Our mission is to provide work to anyone who wants it.
 
-We build a secure standard of identity for businesses to replace passwords, allowing users to have an authentic and personal relationship with the technology they use. Our core values guide our strategies and individual actions so that we create a company whose character is as radical as its product.
+Alegion builds a platform for connecting workers with requesters, regardless of geographic location, creating greater wealth for everyone involved. Extreme poverty is on the decline worldwide, however, using technology we can do more to accelerate this decline. Our actions are guided by our core values in achieving this goal. We hope to build a radically different type of company in the process, where work and life have a healthy, productive balance.

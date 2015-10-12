@@ -1,4 +1,4 @@
-# Clef Observed Holiday List
+# Alegion Observed Holiday List
 
 <table>
   <tr>

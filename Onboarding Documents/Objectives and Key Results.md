@@ -1,6 +1,6 @@
 #Objectives and Key Results
 
-Objectives and Key Results (OKRs) is a method for defining and keeping track of goals and their outcomes. They organize our goals by breaking them into high-level aspirations (objectives) and the measurable results that determine whether or not we’ve reached them (key results). OKRs are set at the company and individual level to help everyone see how their personal goals align with Clef’s goals, and also see how other people in the organization are working for the same outcomes from a different perspective.
+Objectives and Key Results (OKRs) is a method for defining and keeping track of goals and their outcomes. They organize our goals by breaking them into high-level aspirations (objectives) and the measurable results that determine whether or not we’ve reached them (key results). OKRs are set at the company and individual level to help everyone see how their personal goals align with Alegion’s goals, and also see how other people in the organization are working for the same outcomes from a different perspective.
 
 ## Examples
 
@@ -10,7 +10,7 @@ Objectives are the high level achievements you are shooting for, like :
 
 * Increase engagement with the content we produce
 
-* Improve the first time experience of using Clef (onboarding)
+* Improve the first time experience of using Alegion (onboarding)
 
 * Speed up deploy process for our engineering team
 
@@ -30,7 +30,7 @@ Key results are the measurable outcomes that define success for the objectives. 
 
 ## Setting OKRs
 
-Everyone at Clef sets their OKRs quarterly, writing them in the first week of the quarter and then evaluating them in the last week. At a startup it’s easy to focus on the immediate problems, but by setting our goals quarterly we ensure that everyone spends some time thinking about the challenges at least 3 months out.
+Everyone at Alegion sets their OKRs quarterly, writing them in the first week of the quarter and then evaluating them in the last week. At a startup it’s easy to focus on the immediate problems, but by setting our goals quarterly we ensure that everyone spends some time thinking about the challenges at least 3 months out.
 
 Each person should set 3 to 5 objectives for the quarter, and each objective should have a maximum of 4 key results. Each objective also has a Description explaining what it means and an Alignment that explains how it aligns with company-wide goals. Each key result should explain how it will be scored at the end of the quarter.
 

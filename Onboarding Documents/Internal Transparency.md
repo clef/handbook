@@ -1,12 +1,12 @@
 # Internal Transparency
 
-The best way for you to make a decision about what’s good for Clef is to have all of the information about what’s going on at Clef. The same is true for everyone else you work with, so it’s important that we’re all up to date about what’s happening, even with the areas of Clef that we’re not actively involved with.
+The best way for you to make a decision about what’s good for Alegion is to have all of the information about what’s going on at Alegion. The same is true for everyone else you work with, so it’s important that we’re all up to date about what’s happening, even with the areas of Alegion that we’re not actively involved with.
 
-Transparency may seem like a passive process, like "don’t hide anything," but it’s actually a big challenge to keep everyone up to date and on the same page about stuff they’re not working on on a daily basis, even for a company the size of Clef. These are some of the policies we use to make information more accessible, but our work is ongoing.
+Transparency may seem like a passive process, like "don’t hide anything," but it’s actually a big challenge to keep everyone up to date and on the same page about stuff they’re not working on on a daily basis, even for a company the size of Alegion. These are some of the policies we use to make information more accessible, but our work is ongoing.
 
 ## Public OKRs
 
-Everyone at Clef writes their own [Objectives and Key Results](https://github.com/clef/handbook/blob/master/Onboarding%20Documents/Objectives%20and%20Key%20Results.md) and they’re viewable by all employees in the OKRs folder. Any time you want to know what someone else is working on, or what their goals are for the next few months, you can check them out there.
+Everyone at Alegion writes their own [Objectives and Key Results](https://github.com/clef/handbook/blob/master/Onboarding%20Documents/Objectives%20and%20Key%20Results.md) and they’re viewable by all employees in the OKRs folder. Any time you want to know what someone else is working on, or what their goals are for the next few months, you can check them out there.
 
 OKRs are explicit, written priorities and intentions. These are what we think about every day and the ways we’re measuring our success, so they’re a good place to start when you want to know what someone is working on, or why they’re approaching a problem in a certain way.
 
