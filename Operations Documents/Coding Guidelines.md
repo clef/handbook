@@ -24,3 +24,5 @@ Ternaries are not to be used with assignments of `true` or `false` values.  Meth
 
 **Tip:** Oftentimes the use of a ternary with extreme cleverness suggests that the programmer consider the refactoring "[INTRODUCE EXPLAINING VARIABLE](https://sourcemaking.com/refactoring/extract-variable)" or "[EXTRACT METHOD](https://sourcemaking.com/refactoring/extract-method)."
 
+**Recommendation:** Prefer extremely terse ternary expressions ~ 50 characters or fewer
+
