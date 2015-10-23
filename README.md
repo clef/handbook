@@ -4,7 +4,7 @@ At Clef we’re working to build an inclusive company with a value-driven cultur
 
 As we started growing our team this year, we looked for a starter-kit of inclusive policies. A lot of great work is being done to discuss cultural problems and their solutions, but it’s coming from a lot of different voices around the web and very little is written in the form of policy.
 
-We wanted to put those learnings into practice, so we decided to write our own handbook and open source it.
+We wanted to put what we've learned into practice, so we decided to write our own handbook and open source it.
 
 This repository contains all of the policies that we use at Clef. It represents many hours of research, lots of thoughtful debates, and some serious introspection. It’s certainly not perfect, but we think it’s an exciting place to start.
 
