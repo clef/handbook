@@ -35,6 +35,8 @@ The offer also comes with the option to take $5k less salary in exchange for ~.1
 
 At the beginning of each year (in January), we will adjust this rubric to make sure it stays at market rate.
 
+Note: The three Clef founders' salaries do not follow this rubric and are all $50k per year.
+
 ##Equity
 
 Every employee will be offered 41,963 Clef stock options (~.9% of outstanding shares, including the option pool these are drawn from). As mentioned above, they can also choose to reduce their salary by $5k/year in exchange for 4,663 more options (totalling ~1% of outstanding shares).
