@@ -28,6 +28,6 @@ Work calendars should be shared to make scheduling meetings really easy and also
 
 When we measure something, it should be visible to everyone on the team. Our stats will be great sometimes and disappointing others, but when we hide or silo the hard stats, fewer people can help fix them. We’ll try to keep the most critical stats posted in the office, but any data that we’re collecting should be open to everyone.
 
-## Build Trust with Truth
+## We Succeed Together When We Trust Each Other
 
-Communication and negotiation among groups of people is difficult, but the more honest we can be with each other, the easier it will be for us to trust one another and work together as a team. Openness and honesty will be critical to our success, which is why this is one of our key values, and why it’s a mantra we repeat in many conversations.
+Communication and negotiation among groups of people is difficult, but the more honest we can be with each other, the easier it will be for us to trust one another and work together as a team. Openness and honesty will be critical to our success, which is why this is one of our core values, and why it’s a mantra we repeat in many conversations.

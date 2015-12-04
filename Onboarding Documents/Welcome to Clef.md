@@ -38,9 +38,7 @@ The first day can be intense, so if you’re feeling drained we can all cheer to
 
 * Fight the default of exclusion
 
-* Build trust with truth
-
-* We succeed together
+* We succeed together when we trust each other
 
 **Clef isn’t a normal security company.** Security is traditionally a very technical and inaccessible field. At Clef, we’re working to make security easy and approachable to everyone, and that radiates through everything we do. Our product is meant to be friendly and fun, and our attitude should never feel superior or smug. Clef isn’t about protecting people, it’s about empowering them.
 

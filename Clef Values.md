@@ -12,10 +12,6 @@ Our customers and teammates have different needs from our own, so we must consid
 
 Inequality and exclusion are the defaults of our industry. Without intentional effort, we will inherit those failings and worsen the problem. Building a diverse team is a moral imperative and we build a better business and product by bringing different perspectives to the table. We look for voices unlike our own because they are the only ones that help us grow.
 
-## Build trust with truth.
+## We succeed together when we trust each other.
 
-Transparency and honesty are requirements for succeeding with Clef. In order to build a trusting community we give employees and customers deep visibility into how decisions are made and easy outlets to help guide our course. When we build trust through good communication, we create an environment for better communication in the future.
-
-## We succeed together.
-
-We fight for Clef because we love the problems we solve and the people we work with. We are most excited when the company’s successes are our own, and when our teammates recognize our contributions. When we’re excited, the hard work we do always has meaning.
+Trust is the currency that powers every interaction on teams. Only when we trust each other can we share the candid feedback and opinions that let us be creative and successful. We give our coworkers deep visibility into how our decisions are made and easy outlets to help them give input and guide our course. When we build trust through good communication, we create an environment for better communication in the future. 
