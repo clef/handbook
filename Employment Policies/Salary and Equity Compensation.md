@@ -43,6 +43,6 @@ Every employee will be offered 41,963 Clef stock options (~.9% of outstanding sh
 
 These equity grants are larger than industry standard, but also vest over a longer period of time. Employee equity vests over 6 years with a 1 year cliff (while 4 years with a 1 year cliff is standard).
 
-At Clef we’re hoping to build a team that stays with the company and grows with us, so offering larger ownership of the company over a greater period of time aligns with our goals. If employees leave Clef before the 6 years, they will still own more of Clef than if we offered less equity that vested more quickly, but the longer vesting schedule makes our goal more explicit in the initial offer.
+At Clef, we’re hoping to build a team that stays with the company and grows with us, so offering larger ownership of the company over a greater period of time aligns with our goals. If employees leave Clef before the 6 years, they will still own more of Clef than if we offered less equity that vested more quickly, but the longer vesting schedule makes our goal more explicit in the initial offer.
 
 All new employees should also check out our [Guide to Your Equity](https://github.com/clef/handbook/blob/master/Hiring%20Documents/Guide%20to%20Your%20Equity.md), which walks through the nuances of owning Clef stock options.
