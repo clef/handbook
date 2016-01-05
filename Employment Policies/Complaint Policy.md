@@ -10,4 +10,4 @@ Once a complaint has been made, the founders will meet and determine how to hand
 
 We will not engage in or allow retaliation against any employee who makes a good faith complaint or participates in an investigation. If you believe that you are being subjected to any kind of negative treatment because you made or were questioned about a complaint, report the conduct immediately to the founders.
 
-Currently, Clef is too small to have an internal group or department  that can independently respond to complaints, so if the founders are named in complaints, they will do their best to hold one another accountable.  Where appropriate, the founders will engage a third party to conduct a thorough investigation and recommend corrective action, where necessary.  
+Currently, Josephine is too small to have an internal group or department  that can independently respond to complaints, so if the founders are named in complaints, they will do their best to hold one another accountable.  Where appropriate, the founders will engage a third party to conduct a thorough investigation and recommend corrective action, where necessary.  
