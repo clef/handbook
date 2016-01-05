@@ -1,6 +1,6 @@
 # Our Handbook
 
-At Clef we’re working to build an inclusive company with a value-driven culture. That’s an easy thing to want and say, but it’s difficult to practice because exclusion is the default in our industry. It takes active effort to find the hidden biases in our companies and remove them.
+At Josephine we’re working to build an inclusive company with a value-driven culture. That’s an easy thing to want and say, but it’s difficult to practice because exclusion is the default in our industry. It takes active effort to find the hidden biases in our companies and remove them.
 
 As we started growing our team this year, we looked for a starter-kit of inclusive policies. A lot of great work is being done to discuss cultural problems and their solutions, but it’s coming from a lot of different voices around the web and very little is written in the form of policy.
 
