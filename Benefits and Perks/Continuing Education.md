@@ -1,6 +1,6 @@
 # Continuing Education
 
-One of Clef’s core values is “Be better today than yesterday,” so it’s important that we support our employees’ efforts to learn, grow, and improve. These are some of the key benefits of working at Clef, and are central to our company culture.
+One of Josephine’s core values is “Be better today than yesterday,” so it’s important that we support our employees’ efforts to learn, grow, and improve. These are some of the key benefits of working at Clef, and are central to our company culture.
 
 ## Learning Budget
 
