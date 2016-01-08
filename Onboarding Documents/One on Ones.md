@@ -1,6 +1,6 @@
 # One on Ones
 
-Every week, every member of the Clef team meets with their manager in an open ended meeting that lasts at least thirty minutes. The agenda for the one on one is set by the employee and its primary intention is to build a trusting relationship. This is not a status check-up or performance evaluation, it’s dedicated time where the manager is available to hear what each member of their team is excited or frustrated about, what is blocking or scaring them, and what’s going well or could use improvement.
+Every week, every member of the Josephine team meets with their manager in an open ended meeting that lasts at least thirty minutes. The agenda for the one on one is set by the employee and its primary intention is to build a trusting relationship. This is not a status check-up or performance evaluation, it’s dedicated time where the manager is available to hear what each member of their team is excited or frustrated about, what is blocking or scaring them, and what’s going well or could use improvement.
 
 Trust is the fundamental currency of teams, and these meetings are the easiest place to earn trust. Managers are making time for every direct report, every week, so that they build an individual relationship with each one and establish a reliable channel for communication.
 
