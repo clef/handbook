@@ -1,10 +1,10 @@
 #Salary and Equity Compensation
 
-The following policy will apply to compensation offers for the first 10 employees at Josephine after the founding team. After we have hired 10 additional people, we will likely revise the salary rubric and equity amount.
+The following policy will apply to compensation offers for the first 8 employees at Josephine after the founding team. After we have hired 8 additional people, we will likely revise the salary rubric and equity amount.
 
 ##Salary
 
-Fair compensation is critical to making Clef a desirable place to work and helping our employees lead happy, healthy lives inside and outside of the office. When used as a motivational tool, though, it can incentivize the wrong kind of optimizations. Our goal with salary is that it checks the box of "enough" for folks who are excited about working at Clef (because of the people, product, and opportunity for growth) and then fades into the background.
+Fair compensation is critical to making Josephine a desirable place to work and helping our employees lead happy, healthy lives inside and outside of the office. When used as a motivational tool, though, it can incentivize the wrong kind of optimizations. Our goal with salary is that it checks the box of "enough" for folks who are excited about working at Josephine (because of the mission, community, and opportunity for growth) and then fades into the background.
 
 Traditional salary negotiations are also heavily biased because they rely on individual gut feelings and negotiation. This favors candidates who come from more privileged backgrounds and are afforded more confidence during the hiring process.
 
@@ -22,14 +22,14 @@ To avoid that bias, and to better align motivations, we have a standard rubric t
     <td>$100k</td>
   </tr>
   <tr>
-    <td>More than 2 Years Experience</td>
-    <td>$95k</td>
+    <td>Between 2 to 5 Years Experience Experience</td>
+    <td>$100k</td>
     <td>$70k</td>
   </tr>
   <tr>
     <td>Less than 2 Years Experience</td>
-    <td>$75k</td>
-    <td>$50k</td>
+    <td>$80k</td>
+    <td>$55k</td>
   </tr>
 </table>
 
