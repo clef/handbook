@@ -1,10 +1,10 @@
-# Sharing Files at Clef
+# Sharing Files at Josephine
 
 ## Base Directories
 
-At the base of every member of the Clef team’s directory, there should be 6 directories:
+At the base of every member of the Josephine team’s directory, there should be 6 directories:
 
-1. **[Clef Handbook](https://drive.google.com/open?id=0Bwj0rVaUQUXPNWI3SmlwMXRkTDQ&authuser=0)** -- a collection of documents about how we do things at Clef, which anyone can comment on
+1. **[Josephine Handbook](https://drive.google.com/open?id=0Bwj0rVaUQUXPNWI3SmlwMXRkTDQ&authuser=0)** -- a collection of documents about how we do things at Josephine, which anyone can comment on
 
 2. **Active Projects** -- All project folders will be shared globally in this folder
 
@@ -12,7 +12,7 @@ At the base of every member of the Clef team’s directory, there should be 6 di
 
 4. **Resources** -- common resources which will be shared across projects -- like logo design resources, press clippings, etc.
 
-5. **OKRs** -- everyone at Clef’s objectives and key results.
+5. **OKRs** -- everyone at Josephine’s objectives and key results.
 
 6. **[Your Name]** -- every employee should have their personnel folder in the root directory with contracts, offer letters, etc. inside (shared only with you)
 

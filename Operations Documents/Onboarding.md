@@ -1,24 +1,24 @@
 # Onboarding
 
-This document is about the general priorities and policies for how we as a company bring new employees onto the team. As a new person on the team, if you have questions about starting at Clef, check out [Your First Day at Clef](https://docs.google.com/document/d/1vvJfWH7lP808mAlKPr8JwUx0HvkiidzS_bkwB8wqA7M).
+This document is about the general priorities and policies for how we as a company bring new employees onto the team. As a new person on the team, if you have questions about starting at Josephine, check out [Your First Day at Josephine](https://github.com/josephine/handbook/blob/master/Onboarding%20Documents/Welcome%20to%20Josephine.md).
 
 We may also create specific onboarding recommendations for different roles in the future.
 
 # Before Arrival
 
-After a candidate accepts an offer to join Clef, there are a few things that we can get out of the way before they show up.
+After a candidate accepts an offer to join Josephine, there are a few things that we can get out of the way before they show up.
 
 1. Employment paperwork (these should end up in their Personnel folder, which should be shared with them in Google Drive)
 
-    1. Signed [Offer Letter](https://docs.google.com/document/d/1WUiY-mzKHJblc6MatcyZcqWqdnhe_D4fl0RvFXR7dz0)
+    1. Signed [Offer Letter](https://github.com/josephine/handbook/blob/master/Hiring%20Documents/Josephine%20Offer%20Letter.md)
 
-    2. Signed [Proprietary Information and Inventions Assignment Agreement](https://docs.google.com/document/d/10RI3ne-OLjU8cwuwVuYA3H_pQdEW1pioz1zIAJ3nOLY)
+    2. Signed [Proprietary Information and Inventions Assignment Agreement](https://github.com/josephine/handbook/blob/master/Hiring%20Documents/Employee%20Proprietary%20Information%20and%20Inventions%20Assignment%20Agreement.md)
 
 2. Creating accounts
 
     3. Google Apps account
 
-        1. Gmail [NAME@getclef.com](mailto:NAME@getclef.com)
+        1. Gmail [NAME@josephine.com](mailto:NAME@josephine.com)
 
         2. Google Drive (base folders should be pre-configured for them)
 
@@ -34,7 +34,7 @@ After a candidate accepts an offer to join Clef, there are a few things that we 
 
     6. [A talk Jesse gave about cryptography](http://wordpress.tv/2014/05/20/jesse-pollak-crypto-101-demystifying-the-cryptography-behind-wordpress/)
 
-    7. [A pretty good article about the public key crypto Clef uses](https://medium.com/@vrypan/explaining-public-key-cryptography-to-non-geeks-f0994b3c2d5)
+    7. [A pretty good article about the public key crypto Josephine uses](https://medium.com/@vrypan/explaining-public-key-cryptography-to-non-geeks-f0994b3c2d5)
 
     8. [A great explanation of Bitcoin](http://priceonomics.com/post/47135650437/are-bitcoins-the-future)
 
@@ -44,7 +44,7 @@ After a candidate accepts an offer to join Clef, there are a few things that we 
 
 # The First Day
 
-A new employee’s first day is critical to making them feel welcome at Clef. The goals of the first day are to help them get set up, situated, and comfortable with the team. It is the responsibility of the person who led their hiring process to make sure that happens.
+A new employee’s first day is critical to making them feel welcome at Josephine. The goals of the first day are to help them get set up, situated, and comfortable with the team. It is the responsibility of the person who led their hiring process to make sure that happens.
 
 Some guidelines for the first day:
 
@@ -64,8 +64,8 @@ Some guidelines for the first day:
 
 # The First Week, Month, Beyond
 
-The first week of working at Clef should be focused on learning -- learning the company norms, learning how to work with everyone, learning the tools we use, etc. New employees should be contributing a little bit all week, but the expectation is that they ask questions and get set up, not that they immediately assume leadership.
+The first week of working at Josephine should be focused on learning -- learning the company norms, learning how to work with everyone, learning the tools we use, etc. New employees should be contributing a little bit all week, but the expectation is that they ask questions and get set up, not that they immediately assume leadership.
 
-After a week, the new employee should have their first one-on-one meeting. This meeting should go over all of the normal things that we cover in [One on Ones](https://docs.google.com/open?authuser=b%40getclef.com&id=1yVp1XzfjmHkwf_vQf-COInCHj2xd3b7ne_77YSleRgc), but should also probe about any gaps in their knowledge. Importantly, it should also cover [OKRs](https://docs.google.com/open?authuser=b%40getclef.com&id=1ZpDWejQiU5gDWz2mFPvOhdf1g2Xc6vu1kdrlCp3SimU), and go over the company’s objectives. After this meeting, the new employee should write their OKRs for the rest of the quarter (this fractional quarter should be viewed as a sort of practice run). Another meeting to talk about the OKRs should be scheduled for the next day or two.
+After a week, the new employee should have their first one-on-one meeting. This meeting should go over all of the normal things that we cover in [One on Ones](https://github.com/josephine/handbook/blob/master/Onboarding%20Documents/One%20on%20Ones.md), but should also probe about any gaps in their knowledge. Importantly, it should also cover [OKRs](https://github.com/josephine/handbook/blob/master/Onboarding%20Documents/Objectives%20and%20Key%20Results.md), and go over the company’s objectives. After this meeting, the new employee should write their OKRs for the rest of the quarter (this fractional quarter should be viewed as a sort of practice run). Another meeting to talk about the OKRs should be scheduled for the next day or two.
 
-From there, the process should merge towards the normal process. It’s important to set reasonable expectations and be very supportive for as long as it takes for the employee to feel comfortable at Clef (this might be a week for some and a month for others).
+From there, the process should merge towards the normal process. It’s important to set reasonable expectations and be very supportive for as long as it takes for the employee to feel comfortable at Josephine (this might be a week for some and a month for others).
