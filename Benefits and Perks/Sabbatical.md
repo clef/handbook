@@ -8,7 +8,7 @@ The sabbatical should be a time of self-improvement and exploration with a centr
 
 The sabbatical is meant to help further our core values of empathy and civic service by letting the employee cultivate new experiences and relationships. It may also help some employees avoid burnout from working on one thing for too long.
 
-To make sure that sabbatical is not overly disruptive to their team, employees should have taken fewer than 8 weeks of paid time off in the year before a sabbatical. They should also notify the team that they will be taking the sabbatical at least 4 weeks in advance.
+To make sure that sabbatical is not overly disruptive to their team, employees should have taken fewer than twelve weeks of paid time off in the year before a sabbatical. They should also notify the team that they will be taking the sabbatical at least 4 weeks in advance.
 
 There is an expectation that employees return to work at Josephine after their sabbatical, and not use it as a soft exit from the company. We may set some policy to enforce this later.
 
