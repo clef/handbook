@@ -16,13 +16,15 @@ The best perk of working at Josephine is your incredible new coworkers, but youâ
 
 * [Holidays](https://github.com/josephine/handbook/blob/master/Benefits%20and%20Perks/Holiday%20List.md)
 
-* [A quarter-long (12 week) paid sabbatical every 5 years working at Clef](https://github.com/josephine/handbook/blob/master/Benefits%20and%20Perks/Sabbatical.md)
+* [A two-month (8 week) paid sabbatical every 3 years working at Josephine](https://github.com/josephine/handbook/blob/master/Benefits%20and%20Perks/Sabbatical.md)
 
 * [12 weeks paid new parent (maternity/paternity) leave](https://github.com/josephine/handbook/blob/master/Benefits%20and%20Perks/New%20Parent%20Leave.md)
 
 * [Continuing education stipend for industry-related conferences, seminars, coaching, or mentorship activities](https://github.com/josephine/handbook/blob/master/Benefits%20and%20Perks/Continuing%20Education.md)
 
 * [Flights and hotels covered for speaking at industry conferences](https://github.com/josephine/handbook/blob/master/Benefits%20and%20Perks/Continuing%20Education.md)
+
+* [Unlimited Josephine meal credit] (https://github.com/josephine/handbook/blob/master/Benefits%20and%20Perks/Josephine%20Meal%20Credit.md)
 
 The benefits we offer will adapt to the teamâ€™s needs over time and we evaluate and adjust compensation at the beginning of each year (around January).
 
