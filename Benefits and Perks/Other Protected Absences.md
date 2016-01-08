@@ -11,7 +11,7 @@ An employee who wishes to take time off due to the death of an immediate family 
 
 ## Jury Duty or Witness Summons
 
-Employees will be granted time off to serve on a jury or as a witness.  In order to minimize disruption in the office, employees are requested to check in with the founder to whom they report when jury duty or witness testimony lasts less than four hours per day and may be requested to work remotely.  A copy of the jury duty or witness summons and all associated documents must be presented to the founder to whom you report as soon as reasonably possible.
+Employees will be granted up to 3 days paid time to serve on a jury or as a witness.  In order to minimize disruption in the office, employees are requested to check in with the founder to whom they report when jury duty or witness testimony lasts less than four hours per day and may be requested to work remotely.  A copy of the jury duty or witness summons and all associated documents must be presented to the founder to whom you report as soon as reasonably possible.
 
 ## Other Leaves of Absence
 
