@@ -2,7 +2,7 @@ Welcome to Josephine, **FIRST_NAME**!
 
 We are excited to extend an official offer for you to join the Josephine team as **a/the TITLE**. This offer letter will go over the basics of working at Josephine, but there are a lot more details in our [Employee Handbook](https://github.com/josephine/handbook). If you have any questions that aren’t in this letter or the handbook, please let me know.
 
-In our conversation, you said you wanted to take the **EQUITY/SALARY** heavy offer, so your starting salary will be **SALARY** per year and you will be recommended for an option to purchase **SHARES** shares of Josephine’s common stock. There are **OUTSTANDING SHARES** shares of Josephine common stock outstanding, and your shares will vest over four years, with a one year cliff.
+In our conversation, you said you wanted to take the **EQUITY/SALARY** heavy offer, so your starting salary will be **SALARY** per year and you will be recommended for an option to purchase **85,714 OR 91,428** shares of Josephine’s common stock. There are **11,428,563** shares of Josephine common stock outstanding, and your shares will vest over four years, with a one year cliff.
 
 Equity at startups is complicated, so we’ve created a [Guide to Your Equity](https://github.com/josephine/handbook/blob/master/Hiring%20Documents/Guide%20to%20Your%20Equity.md) that explains how options are issued, exercised, and what they might be worth if Josephine is successful.
 
