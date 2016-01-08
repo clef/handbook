@@ -36,13 +36,13 @@ To avoid that bias, and to better align motivations, we have a standard rubric t
 
 We count experience as any time doing the same category of job at a company similar to Josephine (such that the experience is relevant to the job being offered at Josephine).
 
-The offer also comes with the option to take $5k less salary in exchange for ~.1% more equity (to be revised after any updates to our valuation).
+The offer also comes with the option to take $5k less salary in exchange for ~.05% more equity (to be revised after any updates to our valuation).
 
 At the beginning of each year (in January), we will adjust this rubric to make sure it stays at market rate.
 
 ##Equity
 
-Every employee will be offered 85,714 stock options (~.75% of outstanding shares, including the option pool these are drawn from). As mentioned above, they can also choose to reduce their salary by $5k/year in exchange for XX more options (totalling ~X% of outstanding shares).
+Every employee will be offered 85,714 stock options (~.75% of outstanding shares, including the option pool these are drawn from). As mentioned above, they can also choose to reduce their salary by $5k/year in exchange for 5,714 more options (totalling ~.05% of outstanding shares).
 
 Employee equity vests over 4 years with a 1 year cliff.
 
