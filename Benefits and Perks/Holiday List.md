@@ -1,4 +1,4 @@
-# Clef Observed Holiday List
+# Josephine Observed Holiday List
 
 <table>
   <tr>
