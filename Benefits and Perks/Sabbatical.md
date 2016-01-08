@@ -1,6 +1,8 @@
 # Sabbatical
 
-After every 5 years of working at Clef, employees are encouraged to take a one-quarter (12 contiguous weeks) paid sabbatical.
+After every 2.5 years of working at Josephine, employees are encouraged to take a one-month (4 contiguous weeks) paid sabbatical.
+
+After every 5 years of working at Josephine, employees are encouraged to take a one-quarter (12 contiguous weeks) paid sabbatical.
 
 During this sabbatical, they should work on passion projects -- something outside the scope of their normal work that is interesting and exciting to them. This could be researching a topic of interest, working for the US Digital Service, helping a nonprofit, or something else altogether.
 
