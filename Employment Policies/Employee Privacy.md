@@ -12,7 +12,7 @@ Josephine email and Internet are not being actively monitored by anyone, but bec
 
 ## Email Is Not Private
 
-Email messages, including attachments, sent and received from a Clef email address are the property of Josephine. We reserve the right to access, monitor, read, and/or copy email messages at any time, for any reason. You should not expect privacy for any email you send using your Josephine email, including messages that you consider to be personal or label with a designation such as “Personal” or “Private.”
+Email messages, including attachments, sent and received from a Josephine email address are the property of Josephine. We reserve the right to access, monitor, read, and/or copy email messages at any time, for any reason. You should not expect privacy for any email you send using your Josephine email, including messages that you consider to be personal or label with a designation such as “Personal” or “Private.”
 
 ## Use of the Email System for Personal Email
 

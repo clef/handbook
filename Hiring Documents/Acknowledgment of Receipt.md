@@ -33,7 +33,7 @@ This handbook is hosted online at [github.com/josephine/handbook](https://github
 ### Introduction
 * [Handbook Introduction](https://github.com/josephine/handbook/blob/master/Hiring%20Documents/Handbook%20Introduction.md)
 * [Mission Statement](https://github.com/josephine/handbook/blob/master/Mission%20Statement.md)
-* [Clef Values](https://github.com/josephine/handbook/blob/master/Clef%20Values.md)
+* [Josephine Values](https://github.com/josephine/handbook/blob/master/Josephine%20Values.md)
 
 ### Employment Policies
 * [Equal Opportunity Employment](https://github.com/josephine/handbook/blob/master/Employment%20Policies/Equal%20Opportunity%20Employment.md)

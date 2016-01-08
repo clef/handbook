@@ -40,20 +40,20 @@ The first day can be intense, so if you’re feeling drained we can all cheer to
 
 * Measure Feelings, Not Things
 
-**Clef isn’t a normal security company.** Security is traditionally a very technical and inaccessible field. At Clef, we’re working to make security easy and approachable to everyone, and that radiates through everything we do. Our product is meant to be friendly and fun, and our attitude should never feel superior or smug. Clef isn’t about protecting people, it’s about empowering them.
+**Josephine isn’t a normal security company.** Security is traditionally a very technical and inaccessible field. At Josephine, we’re working to make security easy and approachable to everyone, and that radiates through everything we do. Our product is meant to be friendly and fun, and our attitude should never feel superior or smug. Josephine isn’t about protecting people, it’s about empowering them.
 
 **Our ambition is huge.** We want to build the identity standard for the Internet. This is a massive undertaking, and we have to be a little bit delusional to believe that we can do it. But every day we’re making progress and we’ve already taken this a lot further than anyone said was possible, so we’re used to making the impossible happen. This is hard, daunting work, but that’s how we make a dent on the world.
 
-## The Clef Team, Hours, and Office
+## The Josephine Team, Hours, and Office
 
-For now, Clef operates as a single team where everyone is working towards company-level goals. Since we’re still small, there’s not too much overhead in keeping up with everyone. There are still engineering-specific meetings, and marketing conversations that happen separately. But when we set our goals, we all think directly about how we contribute to the company goals. You’ll get to work with everyone at Clef in some capacity, and dip your fingers into all different kinds of thinking.
+For now, Josephine operates as a single team where everyone is working towards company-level goals. Since we’re still small, there’s not too much overhead in keeping up with everyone. There are still engineering-specific meetings, and marketing conversations that happen separately. But when we set our goals, we all think directly about how we contribute to the company goals. You’ll get to work with everyone at Josephine in some capacity, and dip your fingers into all different kinds of thinking.
 
 We believe that if you have too much on your plate, then you can only see what’s right in front of you. You need space and time to think about the future and plan ahead. If we give ourselves room to breathe and think and live, we’re capable of much broader thinking. To achieve that, we try to create a culture that’s not based on scarcity.
 
-You should expect a typical workweek at Clef to be 45-50 hours. Most people show up between 9 and 10 and leave between 6 and 7. We don’t work weekends, but a lot of us host or go to events at night. This is to give you a sense of what’s normal here, but you should work the hours that are healthy and sustainable for you.
+You should expect a typical workweek at Josephine to be 45-50 hours. Most people show up between 9 and 10 and leave between 6 and 7. We don’t work weekends, but a lot of us host or go to events at night. This is to give you a sense of what’s normal here, but you should work the hours that are healthy and sustainable for you.
 
 We try to make the office atmosphere welcoming and respectful for people of all different backgrounds. This is an ongoing process of negotiating and compromising as we share space, and depends on good communication. If there are specific things you like or want to change, let us know. We’re always getting better :)
 
 ## The Future
 
-Clef is a small company that is changing and improving rapidly. Today is about welcoming you and helping you join our team, but soon we’ll need your help growing and learning. Clef will be a very different company a year from today, and it’s hard to imagine what it will be like in 5 or 10. You will have a hand in building that company, and we’re so excited to have your help.
+Josephine is a small company that is changing and improving rapidly. Today is about welcoming you and helping you join our team, but soon we’ll need your help growing and learning. Josephine will be a very different company a year from today, and it’s hard to imagine what it will be like in 5 or 10. You will have a hand in building that company, and we’re so excited to have your help.

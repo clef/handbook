@@ -34,7 +34,7 @@ After a candidate accepts an offer to join Josephine, there are a few things tha
 
     6. [A talk Jesse gave about cryptography](http://wordpress.tv/2014/05/20/jesse-pollak-crypto-101-demystifying-the-cryptography-behind-wordpress/)
 
-    7. [A pretty good article about the public key crypto Clef uses](https://medium.com/@vrypan/explaining-public-key-cryptography-to-non-geeks-f0994b3c2d5)
+    7. [A pretty good article about the public key crypto Josephine uses](https://medium.com/@vrypan/explaining-public-key-cryptography-to-non-geeks-f0994b3c2d5)
 
     8. [A great explanation of Bitcoin](http://priceonomics.com/post/47135650437/are-bitcoins-the-future)
 

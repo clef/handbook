@@ -64,7 +64,7 @@ This changes if you exercise stock less than 2 years after the grant was made be
 
 ## Classes of Stock
 
-When Clef raises outside capital, investors will buy a form of Preferred Stock that gives them special rights on top of their ownership of the business. Each subsequent round of funding will create a new class of stock with its own rights -- these are usually named by the rounds of funding (ex. Series A Preferred Stock, Series B Preferred Stock, etc.). Here are a few example rights that preferred stock may have.
+When Josephine raises outside capital, investors will buy a form of Preferred Stock that gives them special rights on top of their ownership of the business. Each subsequent round of funding will create a new class of stock with its own rights -- these are usually named by the rounds of funding (ex. Series A Preferred Stock, Series B Preferred Stock, etc.). Here are a few example rights that preferred stock may have.
 
 **Board seats:** A class of Preferred Stock may elect, independent of the other shareholders, a certain number of board seats. For instance, the Series A Preferred Stock holders may be able to elect one person to Josephine’s board of directors.
 
