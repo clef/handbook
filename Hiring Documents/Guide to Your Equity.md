@@ -2,7 +2,7 @@
 
 There are currently **4,662,658** shares of Clef common stock outstanding.
 
-We have not undergone a 409A valuation to determine the current strike price of Clef stock.
+Our 409A Valuation Report, which discusses the price per share of employee shares, is available (to employees only) [here](https://drive.google.com/open?id=0Bwj0rVaUQUXPaXREcklsZ0xuNTA). Any employee with questions about the report, our share price, or valuation should ask B.
 
 **This guide is meant to help you understand the piece of Clef that you’re going to own!** Its goal is to be more straightforward than the full Stock Incentive Plan and Award Agreement, which both go into the full legal details. You should consult an employment attorney if you have any questions about navigating your stock options and before you make important decisions.
 
