@@ -8,7 +8,7 @@ We wanted to put what we've learned into practice, so we decided to write our ow
 
 This repository contains all of the policies that we use at Clef. It represents many hours of research, lots of thoughtful debates, and some serious introspection. It’s certainly not perfect, but we think it’s an exciting place to start.
 
-Feel free to fork this repository and use any or all of these policies, and to modify them in whatever way makes sense for your company. We hope that by publishing them, other companies can benefit from our research and make their own policies more inclusive.
+Feel free to fork this repository and use any or all of these policies, and to modify them in whatever way makes sense for your company. We hope that by publishing them, other companies can benefit from our research and make their own policies more inclusive.([mccv](github.com/mccv) has created [a templatized version of the Clef handbook](https://github.com/turbinelabs/handbook-template) to make it easy to use this handbook as a starting point for your own)
 
 All feedback and suggestions (especially in the form of pull requests) are very appreciated. We’ve gotten several different perspectives to help arrive at these policies, but we are certainly missing many more and making mistakes as a result. This is a work in progress that we hope will get better with more time and more contributors.
 
