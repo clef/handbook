@@ -45,10 +45,11 @@ CEO of Clef
 ## Onboarding Documents
 * [Welcome to Clef](https://github.com/clef/handbook/blob/master/Onboarding%20Documents/Welcome%20to%20Clef.md)
 * [Direct Reports](https://github.com/clef/handbook/blob/master/Onboarding%20Documents/Direct%20Reports.md)
-* [Internal Transparency](https://github.com/clef/handbook/blob/master/Onboarding%20Documents/Internal%20Transparency.md)
+* [Communication and Transparency](https://github.com/clef/handbook/blob/master/Onboarding%20Documents/Communication%20and%20Transparency.md)
 * [Objectives and Key Results](https://github.com/clef/handbook/blob/master/Onboarding%20Documents/Objectives%20and%20Key%20Results.md)
 * [One on Ones](https://github.com/clef/handbook/blob/master/Onboarding%20Documents/One%20on%20Ones.md)
 * [Product Manifesto](https://github.com/clef/handbook/blob/master/Onboarding%20Documents/Product%20Manifesto.md)
+* [Effective Meetings](https://github.com/clef/handbook/blob/master/Operations%20Documents/Effective%20Meetings.md)
 
 ## Operations Documents
 * [Sourcing Candidates](https://github.com/clef/handbook/blob/master/Operations%20Documents/Sourcing%20Candidates.md)
