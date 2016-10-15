@@ -2,16 +2,9 @@
 
 The best way for you to make a decision about what’s good for Clef is to have all of the information about what’s going on at Clef. The same is true for everyone else you work with, so it’s important that we’re all up to date about what’s happening, even with the areas of Clef that we’re not actively involved with.
 
-Transparency may seem like a passive process, like "don’t hide anything," but it’s actually a big challenge to keep everyone up to date and on the same page about stuff they’re not working on on a daily basis, even for a company the size of Clef. These are some of the policies we use to make information more accessible, but our work is ongoing.
+Transparency may seem like a passive process, like "don’t hide anything," but it’s actually a big challenge to keep everyone up to date and on the same page, especially on projects they’re not working on on a daily basis, even for a company the size of Clef. These are some of the policies we use to make information more accessible, but our work is ongoing.
 
 ## Communication
-
-
-### Morning Meetings
-
-We do daily morning meetings as a team. Currently, there are two: one for the product & engineering team and one for the growth team. These morning checkins give teammates an opportunity to show off the work they're doing and un-block themselves at a fixed time every day. 
-
-Morning meetings should happen in the focus-specific channel (#dev or #growth) through Slack calls and start on-time every day, regardless of whether everyone is in attendance. Feel free to call in from wherever, but make sure you have a strong internet connection and no background noise. You are expected to be present for every standup, but if you miss one, you're responsible for checking in with the team, updating them on your work, making sure you're not blocking anyone, and unblocking yourself. 
 
 ### Friday #Updates
 
@@ -36,7 +29,7 @@ With increased individual flexibility, since we're all working at the same time 
 
 ### Calendar Updates
 
-If you're working remotely or from home, you should put a calendar event with that status for all the time you are out of the office.
+If you're working remotely or from home, you should put a calendar event indicating where you are working from for all the time you are out of the office.
 
 ### Slack
 
