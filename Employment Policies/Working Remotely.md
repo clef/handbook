@@ -45,7 +45,7 @@ If you're planning to work remotely for more than two consecutive days, or you'r
 
 Get Approval From your manager
 
-You need your manager's approval before you can work remotely for an extended period of time. This check-in should happen at least two weeks in advance, before you make any travel arrangements. In order for an employee to work remotely for an extended period of time, they should have demonstrated in the past that they are effective working remotely and upholding their quality of work. If that's not the case, the manager can and should veto the option and work with the employee to come up with a plan that would get them on track to work remotely in a more effective way.
+You need your manager's approval before you can work remotely for an extended period of time. This check-in should happen at least two weeks in advance, before you make any travel arrangements, and you should come prepared with a plan for how you will handle the logistics and extra communication work involved in extended remote work. In order for an employee to work remotely for an extended period of time, they should have demonstrated in the past that they are effective working remotely and upholding their quality of work. If that's not the case, the manager can and should veto the option.
 
 #### Give the team heads up
 
