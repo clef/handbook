@@ -39,7 +39,7 @@ The majority of policies that support remote work in Clef apply to everyone at C
 
 #### Extended remote work 
 
-***An extended remote work period includes anything longer than 2 days or any period of time where we work from somewhere place.***
+***An extended remote work period includes anything longer than 2 days or any period of time where we work from somewhere irregular.***
 
 If you're planning to work remotely for more than two consecutive days, or you're planning to work remotely from a place that's not your home (i.e. from a partner's home in a different city), you'll need to follow these additional guidelines. Even more than standard remote work, working remotely for an extended period of time is a privilege — it **will** require a large amount of extra work from you to make sure that the team is effective with you working remotely.
 
