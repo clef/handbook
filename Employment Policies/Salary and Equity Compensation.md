@@ -1,8 +1,8 @@
-#Salary and Equity Compensation
+# Salary and Equity Compensation
 
 The following policy will apply to compensation offers for the first 10 employees at Clef. After we have hired 10 people, we will likely revise the salary rubric and equity amount.
 
-##Salary
+## Salary
 
 Fair compensation is critical to making Clef a desirable place to work and helping our employees lead happy, healthy lives inside and outside of the office. When used as a motivational tool, though, it can incentivize the wrong kind of optimizations. Our goal with salary is that it checks the box of "enough" for folks who are excited about working at Clef (because of the people, product, and opportunity for growth) and then fades into the background.
 
