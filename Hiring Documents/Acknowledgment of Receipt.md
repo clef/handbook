@@ -1,11 +1,11 @@
 # Acknowledgement of Receipt of Employee Handbook
 
-I acknowledge I have received a copy of the Clef Employee Handbook, have read it, and understand its provisions.  I further understand that if I have a question, I am obligated to ask one of the founders for clarification of any provisions in the Employee Handbook.
+I acknowledge I have received a copy of the Comake Employee Handbook, have read it, and understand its provisions.  I further understand that if I have a question, I am obligated to ask one of the founders for clarification of any provisions in the Employee Handbook.
 
-I further understand that the statements contained in the handbook do not create any contractual or other legal obligations of employment.  I also understand that Clef may at any time modify, rescind, or revise any policy, benefit, or practice described in the handbook, except for its policy of at-will employment.
+I further understand that the statements contained in the handbook do not create any contractual or other legal obligations of employment.  I also understand that Comake may at any time modify, rescind, or revise any policy, benefit, or practice described in the handbook, except for its policy of at-will employment.
 
 
-I understand and agree that my employment with Clef is at-will and can be terminated by either me or the company without cause or notice and that nothing in the handbook should be interpreted to the contrary.  This is the entire agreement between me and Clef on this subject; it supersedes any prior inconsistent representations or agreements and may only be modified in a writing signed by me and the CEO.
+I understand and agree that my employment with Comake is at-will and can be terminated by either me or the company without cause or notice and that nothing in the handbook should be interpreted to the contrary.  This is the entire agreement between me and Comake on this subject; it supersedes any prior inconsistent representations or agreements and may only be modified in a writing signed by me and the CEO.
 
 
 I acknowledge that it is my responsibility to read and become familiar with the contents of the handbook.
@@ -27,13 +27,13 @@ Signature: ________________________
 ***
 
 
-## Contents of the Clef Employee Handbook
-This handbook is hosted online at [github.com/clef/handbook](https://github.com/handbook), along with several other policies. The *Clef Employee Handbook* consists of only the policies listed below.
+## Contents of the Comake Employee Handbook
+This handbook is hosted online at [github.com/clef/handbook](https://github.com/handbook), along with several other policies. The *Comake Employee Handbook* consists of only the policies listed below.
 
 ### Introduction
 * [Handbook Introduction](https://github.com/clef/handbook/blob/master/Hiring%20Documents/Handbook%20Introduction.md)
 * [Mission Statement](https://github.com/clef/handbook/blob/master/Mission%20Statement.md)
-* [Clef Values](https://github.com/clef/handbook/blob/master/Clef%20Values.md)
+* [Comake Values](https://github.com/clef/handbook/blob/master/Comake%20Values.md)
 
 ### Employment Policies
 * [Equal Opportunity Employment](https://github.com/clef/handbook/blob/master/Employment%20Policies/Equal%20Opportunity%20Employment.md)

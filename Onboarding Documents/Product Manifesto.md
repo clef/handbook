@@ -1,18 +1,18 @@
 # Product Manifesto
 
-Working on Clef, it is tempting to optimize for some of the metrics which have been important to other companies like ours. We can use these metrics to compare ourselves against passwords and traditional two-factor authentication, and eke out incremental benefits for users or sites who decide to use Clef. Those metrics might include:
+Working on Comake, it is tempting to optimize for some of the metrics which have been important to other companies like ours. We can use these metrics to compare ourselves against passwords and traditional two-factor authentication, and eke out incremental benefits for users or sites who decide to use Comake. Those metrics might include:
 
 * The level of security we are able to offer customers
 
 * The speed of each login
 
-* The ratio of time logged in with Clef to time managing Clef
+* The ratio of time logged in with Comake to time managing Comake
 
 * The number of taps between each login
 
-For the first two years of Clef’s existence, we often found ourselves following our guts in the wrong direction on each of these metrics but were unable to articulate why. We looked at other solutions that out-performed us in each of these categories and worried about whether we were overlooking optimizations that would make Clef a better product. We kept making decisions that felt right, but weren’t backed up by the core metrics we "should" have been measuring.
+For the first two years of Comake’s existence, we often found ourselves following our guts in the wrong direction on each of these metrics but were unable to articulate why. We looked at other solutions that out-performed us in each of these categories and worried about whether we were overlooking optimizations that would make Comake a better product. We kept making decisions that felt right, but weren’t backed up by the core metrics we "should" have been measuring.
 
-Even as we seemed to be working in the wrong direction, people were choosing Clef over the other options and connecting with it in a way that was radically different. We discovered that while people *used* other options, they *loved* using Clef.
+Even as we seemed to be working in the wrong direction, people were choosing Comake over the other options and connecting with it in a way that was radically different. We discovered that while people *used* other options, they *loved* using Comake.
 
 We came to realize that while each of those core metrics might map to a frustration with passwords and/or other existing ways of logging in to an app or service, none of them truly addressed the real pain people were experiencing.
 
@@ -28,8 +28,8 @@ Identity is something that’s fundamental to being human. And it’s because of
 
 The solution to the "password problem" isn’t faster logins or additional layers of security. Instead, we have to work to dismantle the negative, or shame-based, associations with identity by both empowering our users and delivering an experience they can understand and feel positively about.
 
-**At Clef, our core product value is clarity.**
+**At Comake, our core product value is clarity.**
 
-Prioritizing clarity means that Clef will always be accessible and unscary for our users. It empowers them to feel in control of and protect their identity, as well as understand and engage with the concept of security online. Done with beauty, the experience of logging in with Clef creates a sense of magic and wonder that is impossible to fake.
+Prioritizing clarity means that Comake will always be accessible and unscary for our users. It empowers them to feel in control of and protect their identity, as well as understand and engage with the concept of security online. Done with beauty, the experience of logging in with Comake creates a sense of magic and wonder that is impossible to fake.
 
-Clarity requires deep empathy and constant refinement. It does not always make Clef faster or safer, but instead, has a positive impact on the way our users *feel*. This positive feeling is the key to our success, both as a team and a company, and it’s what we should strive for every time we ship something new.
+Clarity requires deep empathy and constant refinement. It does not always make Comake faster or safer, but instead, has a positive impact on the way our users *feel*. This positive feeling is the key to our success, both as a team and a company, and it’s what we should strive for every time we ship something new.

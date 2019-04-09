@@ -8,7 +8,7 @@ This policy is written in the context of our current company setup, which is tha
 * An employee who works from the office 1wk/month or is remote for the majority of their time
 * A team that is distributed
 
-If and when the current company setup changes, we should address the above situations. For the purpose of this document, we interpret remote work as as a co-located employee of Clef working from home or from somewhere irregular. 
+If and when the current company setup changes, we should address the above situations. For the purpose of this document, we interpret remote work as as a co-located employee of Comake working from home or from somewhere irregular. 
 
 ## Approach
 
@@ -30,7 +30,7 @@ The guidelines in this document (and the handbook at large) give us tools to mak
 
 ## Policies
 
-The majority of policies that support remote work in Clef apply to everyone at Clef, not just remote workers. The primary documents that outline these policies are:
+The majority of policies that support remote work in Comake apply to everyone at Comake, not just remote workers. The primary documents that outline these policies are:
 
 * [Effective Meetings](https://github.com/clef/handbook/blob/master/Operations%20Documents/Effective%20Meetings.md)
 * [Communication and Transparency](https://github.com/clef/handbook/blob/master/Onboarding%20Documents/Communication%20and%20Transparency.md)
@@ -70,7 +70,7 @@ A non-exhaustive list of things to ensure are in order are:
 
 #### Co-working Space Subsidies
 
-Working remotely can add a financial burden on an individual. At the same time, it is also a privilege. While Clef is on its seed extension, Clef will subsidize co-working space costs for up to $10/day. Once Clef reaches profitability or raises its next major fundraising round, we will revisit this subsidy.
+Working remotely can add a financial burden on an individual. At the same time, it is also a privilege. While Comake is on its seed extension, Comake will subsidize co-working space costs for up to $10/day. Once Comake reaches profitability or raises its next major fundraising round, we will revisit this subsidy.
 
 ### Manager Retrospectives
 
@@ -78,13 +78,13 @@ Working remotely can add a financial burden on an individual. At the same time, 
 
 If an employee works remotely, they should make the topic of their remote work a regular part of weekly 1:1s. 
 
-This is a time where employees can voice concerns about constraints that are limiting their ability to work effectively: this could be concerns about structures inside of Clef that limit their flexibility, concerns about how the way other teammates work, or anything else that might affect how they work. It's also a time where managers should give concrete feedback on whether an employee is upholding their responsibilities when they are working remotely.
+This is a time where employees can voice concerns about constraints that are limiting their ability to work effectively: this could be concerns about structures inside of Comake that limit their flexibility, concerns about how the way other teammates work, or anything else that might affect how they work. It's also a time where managers should give concrete feedback on whether an employee is upholding their responsibilities when they are working remotely.
 
 #### Dedicated Retrospectives
 
 Before an employee works remotely for an extended period of time (defined below),  they should schedule a retrospective with their manager for when they get back.
 
-This meeting is essential for debriefing what did and didn't work in the time they were gone and ensuring lessons learned are rolled back into the way we work at Clef.
+This meeting is essential for debriefing what did and didn't work in the time they were gone and ensuring lessons learned are rolled back into the way we work at Comake.
 
 #### Loss of the privilege
 

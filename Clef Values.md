@@ -1,4 +1,4 @@
-# Clef Core Values
+# Comake Core Values
 
 ## Be better today than yesterday.
 

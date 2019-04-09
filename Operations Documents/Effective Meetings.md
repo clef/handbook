@@ -1,6 +1,6 @@
 # Effective meetings and group work
 
-To increase flexibility in how and where employees at Clef work, we agree on a shared set of constraints for group work and meetings. 
+To increase flexibility in how and where employees at Comake work, we agree on a shared set of constraints for group work and meetings. 
 
 ## Meeting Ettiquette
 

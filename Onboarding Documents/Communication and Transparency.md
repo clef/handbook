@@ -1,8 +1,8 @@
 # Communication and Transparency
 
-The best way for you to make a decision about what’s good for Clef is to have all of the information about what’s going on at Clef. The same is true for everyone else you work with, so it’s important that we’re all up to date about what’s happening, even with the areas of Clef that we’re not actively involved with.
+The best way for you to make a decision about what’s good for Comake is to have all of the information about what’s going on at Comake. The same is true for everyone else you work with, so it’s important that we’re all up to date about what’s happening, even with the areas of Comake that we’re not actively involved with.
 
-Transparency may seem like a passive process, like "don’t hide anything," but it’s actually a big challenge to keep everyone up to date and on the same page, especially on projects they’re not working on on a daily basis, even for a company the size of Clef. These are some of the policies we use to make information more accessible, but our work is ongoing.
+Transparency may seem like a passive process, like "don’t hide anything," but it’s actually a big challenge to keep everyone up to date and on the same page, especially on projects they’re not working on on a daily basis, even for a company the size of Comake. These are some of the policies we use to make information more accessible, but our work is ongoing.
 
 ## Communication
 
@@ -13,7 +13,7 @@ Every Friday, everyone on the team posts an update in the #updates channel in Sl
 * What they accomplished this week
 * What they hope to accomplish next week
 
-This makes it easy to keep in the loop on projects and also keeps everyone at Clef accountable to everyone else to do their part.
+This makes it easy to keep in the loop on projects and also keeps everyone at Comake accountable to everyone else to do their part.
 
 ### Pro-active checkins
 
