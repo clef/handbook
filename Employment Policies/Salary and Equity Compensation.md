@@ -1,8 +1,8 @@
-#Salary and Equity Compensation
+# Salary and Equity Compensation
 
 The following policy will apply to compensation offers for the first 10 employees at Clef. After we have hired 10 people, we will likely revise the salary rubric and equity amount.
 
-##Salary
+## Salary
 
 Fair compensation is critical to making Clef a desirable place to work and helping our employees lead happy, healthy lives inside and outside of the office. When used as a motivational tool, though, it can incentivize the wrong kind of optimizations. Our goal with salary is that it checks the box of "enough" for folks who are excited about working at Clef (because of the people, product, and opportunity for growth) and then fades into the background.
 
@@ -37,7 +37,7 @@ At the beginning of each year (in January), we will adjust this rubric to make s
 
 Note: The three Clef founders' salaries do not follow this rubric and are all $50k per year.
 
-##Equity
+## Equity
 
 Every employee will be offered 41,963 Clef stock options (~.9% of outstanding shares, including the option pool these are drawn from). As mentioned above, they can also choose to reduce their salary by $5k/year in exchange for 4,663 more options (an additional ~.1%, totaling ~1% of outstanding shares).
 
