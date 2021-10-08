@@ -1,4 +1,4 @@
-# Clef Core Values
+# Venkon Core Values
 
 ## Be better today than yesterday.
 
